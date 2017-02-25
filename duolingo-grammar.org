@@ -1,16 +1,511 @@
 * Articles
 ** Definite Articles
+*** Section 1 -Basics
+
+In English, we only have one form for all nouns - the. In Portuguese, the form of the definite article depends on the gender of the noun (something we don't have in English), and the number (single or plural - Dog/Dogs).
+
+    O - If the noun is single and masculine
+    Os - If the noun is plural and masculine
+    A - if the noun is single and feminine
+    As - if the noun is plural and feminine
+
+Here are some examples:
+
+    O jornal - The newspaper
+    Os motores - The motors
+    A besta - The beast
+    As Mulheres - The women
+
+The genders of the nouns don't follow common sense (some things you would associate with women are masculine words). As a general rule, words ending in:
+
+    a, ção, ade or gem are usually femenine
+    o, l, r or a are usually masculine
+
+*** Section 2 - Contractions of prepositions with definite articles
+
+Heres something I struggled with. I can't remember if Duolingo even properly explained it to me or I just forgot. I would see worlds like 'do', 'pelo' and 'das' in sentences and not have any idea what they meant or how they got there. This was one of the things that made me want to give up because I just felt completely lost.
+
+Prepositions are worlds like to, of, at, in, by etc. They indicate location.
+
+The prepositions a is 'to', de is 'of, from', em is 'at, in, on' and por is 'by, for, through'.
+
+When combining these with definite articles, you have to alter the preposition (it sill means the same though) before you can stick the article on at the end. When combining Definite Articles and Prepositions, you are just basically contracting the two words just how like in English we will say 'Don't' instead of 'Do not'. Changing the preposition in this way so that it can be contracted would be to reduce its form
+
+    a doesn't have a reduced form, so when combining with O it becomes ao, with Os it becomes aos, with A it becomes à and with As becomes às.
+
+    de when reduced becomes d, so when combining with O becomes do, with Os becomes dos, with A becomes da and with As becomes das.
+
+    em when reduced becomes n, so when combining with O becomes no, with Os becomes nos, with A becomes na and with As becomes nas.
+
+    por when reduced becomes pel and it follows the same rules as the above two: just add o, os, a or as depending on what you're combing it with.
+
+*** Section 3 - How Definite Articles are used in Portuguese compared to English
+
+For the most part, Portuguese use is mostly similar to the use of the word 'the' in English. Portuguese uses definite articles in the following cases where English does not:
+
+    With nouns used in the general, non specific sense - Os gatos gostam de peixe = The cats like fish
+
+    With the names of most countries - O Brasil. There are a few exceptions to this but I wouldn't worry about it at this stage
+
+    Names of languages, unless the name of the language comes after a verb closely associated with it such as 'aprender - learn' or 'entender - understand'.
+
+    With titles of a proper name: 'o sehnor Jose - Mr Jose', 'o presidente Hollande - President Hollande', 'a doutora Claire - Dr Claire'. When you address the person in a question, then you don't need the definite article: 'Bom dia, Presidente Hollande - Good morning, President Hollande'.
+
+    With Proper names - 'o John' and 'o Pele'. The use of definite articles in this case is usually avoided in formal written language. It is used in spoken language, expect when you are addressing the person directly.
+
+    Names of companies, bars, TV stations, sports teams etc.
+
+    Before possessive adjectives (teu, seu, nosso, meu etc) (your/our/theirs etc). This was one of the things that I found most confusing when I started learning. I would see sentences like: 'O meu sapatos' and stare at my screen wondering why on earth a Definitive Article was used. Im sure people learning English have also questioned the strangeness of our language compared to theirs.
+
+    Where English uses a possessive adjective before a part of the body, item of clothing or family member that or who belongs to the subject of the sentence, Portuguese uses a definite article. Example: Coloque a mão na cabeça - Put your hand on your head
+
+*** Section 4 - Replacing a noun with a definite article to avoid repetition
+
+You add the appropriate form of the definite alone before the words que 'which', de 'of'; an adjective or a possessive that refers back to a noun that has been mentioned before. Here are some examples
+
+    Vi a foto do Davi e a do Pedro - I saw the photo of Davi and the one of Pedro.
+    Meu carro é azul. O do meu pai é preto - My car’s blue. My dad’s is black
+    Tenho que olhar as minhas roupas e separar as que quero levar - I have to look over my clothes and sort out the ones I want to take.
+
+Remember that we are using a Definitive in these sentences so we don't have to keep repeating the noun. We do this in English by using the words 'one' and 'ones'. In the first and second sentence, the Definite is 'a' as we are talking about a single photo, and 'o' as we are talking about a single car. In the thrid sentence, we are using 'as' because we are talking about clothes (which are plural).
 ** Indefinite Articles
+*** Section 1 - Indefinite Articles and Gender
+
+The indefinite article (In English it is a or an) also has masculine or feminine forms in Portuguese, it also has plural forms the work the same as the English word 'some'. If Uns or Umas are used before a number, then the meaning changes to mean 'about or around'.
+
+    Um is single masculine, Uns is plural masculine
+    Uma is single feminine, Umas is plural feminine
+
+Examples
+
+    Um Livro - a book
+    uns garfos - some forks
+    Recebi uns dez telefonemas - I got about ten phone calls
+
+*** Section 2 - Contracting Indefinite articles with prepositions
+
+em 'at, in, on' can be contracted with the indefinite article but this is not obligatory. This contraction is usually made in speech, and sometimes in the written language.
+
+To contract em with indefinite articles, reduce em to n. Then when you combine n with um it becomes num, with uns it becomes nuns, with uma it becomes numa and with umas becomes numas. In Brazilian Portuguese, this contraction isn't very common so you should really just write em and then the indefinite.
+
+The word de 'of, from' can be contracted just like em, but it is rare and probably should be avoided. Instead, you can just write de and then the indefinite article separately.
+*** Section 3 - Differences in uses of Indefinite articles from English
+
+Most of the time the indefinite article in Portuguese is used in a similar fashion to the English words 'a, an', but there are some significant differences:
+The indefinite article is not usually used:
+
+    After the verb ser 'to be' when describing someones nationality, job or religion.
+
+    After the verb tornar-se and virar 'to become' A casa virou meseu - The house became a museum.
+
+    Before a noun that is used as a direct object in a generic sence: O hotel tem piscina - The hotel has a pool
+
+    After the word como when it means 'as'. - Ele trabalha como engenheiro - He works as an engineer
+
+    After the prepositions de 'with, in' and sem 'without' when they are used to specify someones characteristics. Um homem de bengala - a man with a walking stick
+
+    When an indefinite noun is used in next to something, usually to a name
+
+The Indefinite article appears in these instances where it does not in English:
+
+    With abstract nouns when qualified by an adjective
+
+O filme é de uma beleza arrebatadora - The film is breathtakingly beautiful
+
+In grammar, a word or phrase that qualifies another word or phrase limits its meaning and makes it less general. So in this case, the adjective 'Breathtakingly' would cause the abstract noun 'Beautiful' to become specific instead of generalized. For example, the sentence 'He walked' doesn't give us any information other than there is a man that is walking. The sentence, 'He walked along the road', causes the word 'walked' to be limited to 'along the road'. If anyone can describe this better please write it in the comments
+
+An abstract noun is something that is conceptual or not physically real. A house is not a concept and it is real so it is not an abstract noun, whereas beauty and love are conceptual and are not physically real so they are abstract nouns.
+
+    With many abstract nouns to mean thing - O que eles fizeram foi uma crueldade - What they did was an act of cruelty.
+
+In this sentence, the words 'act' and 'cruelty' are both abstract nouns, but they are both being used to mean to mean one thing - an act of cruelty. The sentence, 'The animal has suffered cruelty', only has one abstract noun and not two or more that are all talking about one thing so the rule would not apply.
 ** Meu or o meu
 * General Grammar
 ** Conditionals
+Hey there. I think this should have been posted long ago, specially because of the confusions with past subjunctive and other conditional tenses in incomplete sentences.
+
+So here is how we form conditionals in Portuguese, with full cause-consequence phrases.
+
+I took the four conditionals from here in English: http://www.perfect-english-grammar.com/conditionals
+If you think there are more conditional forms than these, please tell me, they would be gladly added to the others
+
+The Zero Conditional
+
+In Portuguese, it can take two forms:
+
+    (en) If + Present Simple, ... Present Simple
+    (pt) Se + Present Indicative, ... Present Indicative
+    (pt) Se + Future Subjuncive, ... Present Indicative - Tenses seem to mismatch, but this is very common
+
+See:
+
+    If you heat water to 100 degrees, it boils.
+    Se você esquenta a água a 100 graus, ela ferve.
+    Se você esquentar a água a 100 graus, ela ferve.
+
+The first just relates cause and consequence. It's better for "you" since it doesn't really expect the subject to take that action. It fits: "If/When one heats water, it boils", or "the result of heating water is it boiling".
+
+The second is more related what happens if the subject actually tries doing that.
+
+The First Conditional
+
+It has only one form, although the Portuguese future is often used in two forms:
+
+    (en) If + Present Simple, ... Will + Infinitive
+    (pt) Se + Future Subjunctive, ... Future Indicative
+
+    (pt) Se + Future Subjunctive, ... Informal Future
+
+    If it rains tomorrow, we'll stay home
+    Se chover amanhã, nós ficaremos em casa
+    Se chover amanhã, nós vamos ficar em casa (informal future: present ir + infinitive)
+
+Now....why subjunctive?? What should be the difference in English??? Well, see the difference " If it happens to be future subjunctive ".
+
+The Second Conditional
+
+This can take two forms, one formal and one informal:
+
+    (en) If + Past Simple, ... Would + Infinitive
+    (pt) Se + Past Subjunctive, ... Futuro do Pretérito (1) - formal
+    (pt) Se + Past Subjunctive, .... Imperfect Past - informal
+
+(1) - Future of the Past
+
+So, here are the examples:
+
+    (en) If I had money, I would travel around the world.
+    (pt) Se eu tivesse dinheiro, eu viajaria ao redor do mundo - formal
+    (pt) Se eu tivesse dinheiro, eu viajava ao redor do mundo - informal
+
+The Third Conditional
+
+This one can also take two forms, following the same formal/informal versions above:
+
+    (en) If + Had (Simple Past) + Past Participle, ............. Would + Have + Past Participle
+    (pt) Se + Ter (Past Subjunctive) + Past participle, ... Ter (Future of the Past) + Past Participle
+    (pt) Se + Ter (Past Subjunctive) + Past participle, ... Ter (Imperfect Past) + Past Participle
+
+Examples:
+
+    If I had gone to bed early, I would have caught the train
+    Se eu tivesse ido para a cama cedo, eu teria pego o trem (formal)
+    Se eu tivesse ido para a cama cedo, eu tinha pego o trem (informal)
+
+Another one - Past condition, present result:
+
+Here is one more not listed on the link above:
+
+    (en) If + Had (Simple Past) + Past Participle, ............. Would + Infinitive
+    (pt) Se + Ter (Past Subjunctive) + Past participle, ... Future of the Past
+    (pt) Se + Ter (Past Subjunctive) + Past participle, ... Imperfect Past
+
+Examples:
+
+    If I had listened to my mother, I wouldn't be in trouble now
+    Se eu tivesse escutado a minha mãe, eu não estaria em apuros agora
+    Se eu tivesse escutado a minha mãe, eu não estava em apuros agora
+
+Curiosity about these ones:
+
+Although tenses don't fit quite well, they are often used for the previous case too (called here third conditional).
+
+Please notice that the informal versions shown above that use "imperfect past" may not make sense if it's not a full sentence with both parts: if + then. If you use just the second part, the "consequence" only, it might make no sense (well....it does in some cases....). So, avoid using the imperfect past in sentences like these:
+
+    I would take the train = Eu pegaria o trem (not pegava, because it means took, used to take)
+    I would like to go = Eu gostaria de ir (not gostava....)
+
+
 ** Demonstratives and place adverbs - Memorizing tricks
+If you read the discussions about demonstratives, and the discussions about place adverbs, you may have noticed an interesting pattern:
+
+    Isto and aqui are both near the speaker
+    Isso and aí are both near the listener
+    Aquilo and ali/lá are both far from them
+
+Ok, just to complete, "ali" is not very far, and "lá" is far.
+
+With this, you can find some interesting sentences like:
+
+    O que é aquilo ali? = What is that thing over there?
+    Isto aqui é muito bom! = This thing here is very good!
+    Quem é esse aí contigo? = Who is that one there with you?
+    Aquele carro lá está aberto = That car over there is open
+    Esta bebida aqui é mais gostosa = This drink here is tastier
+    É isso aí!!! = That's it!
+
 ** Gerund vs. Infinitive confusion
+
 ** It - what is "it" in Portuguese after all?
+There is a tendency of many people thinking that "it" translates as "isto" in Portuguese, but in fact, it doesn't (or at least it's not the standard meaning).
+
+There are cases where this is true, but mostly, "it" should be seen differently.
+
+What we usually teach in the English for Portuguese speakers course is:
+
+    "It" não é "isto" = "It" is not "isto"
+
+"It" in English may have different functions that are distinct in Portuguese. Dummy "it"s and concrete "it"s are treated differently, for instance.
+
+All sentences like "It is something" should not be translated with "isso/isto". They should simply use nothing. These are "hidden subjects" in Portuguese:
+
+    It is a man = __ É um homem
+    It is my car = __ É o meu carro
+    It is very interesting = __ É muito interessante
+
+As you can tell, the difference between "It's a man" and "this is a man" is enough to make them not be used interchangeably, unless when someone asks you "what is this?". The same distinction exists in Portuguese between "É um homem" and "Isto é um homem".
+
+Also, there are subjects that don't even exist, such as with nature events:
+
+    It is raining = __ Está chovendo (there is nothing at all that "does" rain)
+
+"It" is a personal pronoun, therefore in cases where it's an actual concrete subject or object, it should be translated with a personal pronoun as well: ele/ela (subject) and o/a/-lo/-la/-no/-na (object), or even be omitted if the sentence doesn't get unnatural by that omission:
+
+    I like my car, it's so comfortable = Eu gosto do meu carro, ele é tão confortável!!
+    Your house is great, I like it! = Tua casa é ótima, eu gosto dela
+    I love that play, I want to watch it again = Eu amo essa peça, quero vê-la de novo
+    Here is your money, take it an leave = Aqui está o seu dinheiro, pegue-o e saia.
+    It's an interesting opportunity, they are chasing it = __ É uma oportunidade interessante, eles estão correndo atrás dela
+    It bit me! = Ele/Ela me mordeu! (something that "bites" is certainly a concrete thing)
+
+Using "isto/isso" in any of these cases would be very weird if you are talking about those mentioned subjects/objects, just like it would happen in English with "this". Using "isto/isso" would evoke a "situation" as subject/object to replace those.
+
+    I like my car, this is so comfortable - Wait, what is comfortable? You liking your car? Perhaps you demonstrating how the seats lean back? Not your car, you would have used "it/ele" if it were your car.
+
+Then why everyone keeps saying that "it = isto"?
+
+Well, first, beginners are not used to the idea of "not translating a word" (such as in the "it's something" sentences). Many feel the need to translate "it" and the nearest one can think for those indefinite cases is "isto". Also, Duolingo's hint system doesn't really fit the possibility of an empty hint.
+
+And second, there are cases indeed when they can!
+
+These are cases that simply get "idiomatic" in Portuguese with "isto/isso", and they seem to happen mostly when there is a "situation" or something that is not concrete enough or not specific/identified enough to be referred to as "ele". Then, "Isto = this vague thing". And there is also a "preposition", which forces you to add a complement. Prepositions cannot stand loose in Portuguese, they need the complement after them. Otherwise, it would be probably better to omit the translation.
+
+One case without preposition for comparison. Here "it" is not translated:
+
+    — I have a surprise for you = Eu tenho uma surpresa para você
+    — What is it? = O que é __? (Not concrete enough to use "ela", not present enough to use "isto". Still working the same as English)
+
+Classic cases are:
+
+    Think about it = Pense nisso (The situation is too vague for one to use "ele", even though, you can when you define it properly: "É um caso interessante, vou pensar nele com carinho = It's an interesting case, I'll think about it with care")
+
+    We will talk about it later = Falaremos disso depois (The concrete thing and the situation meanings may mix up here, lacking "concreteness". It's an idiomatic usage. Again, defining it properly would allow "ele" usage: Este assunto não é tão importante, falaremos dele depois = This subject is not that important, we'll talk about it later)
+
+    Because of it = Por causa disso / Por isso (Once more, the situation and the concrete thing may mix up, another idiomatic usage. Again, the "ele" case applies: "Toda essa mudança me deixa maluco, por causa dela não consigo me orientar = All this change drives me crazy, because of it I can't orient myself)
+
+In these cases, the prepositions are "em" (making "nisso") and "de" (making "disso").
+Notice that in a case where the object is naturally implied, it would be a good idea to omit it too:
+
+    I will think about it carefully = Eu vou pensar __ com cuidado (no object, no preposition)
+
+
 ** Numbers and their genders
+Just to make it a little more challenging, Portuguese numbers also take genders, but not all of them.
+
+.
+Units - Unidades
+
+The one digit numbers are: um, dois, três, quatro, cinco, seis, sete, oito, nove.
+
+Among them, only one and two take genders:
+
+    Um carro, uma casa
+    Dois carros, duas casas
+
+The others, três, quatro, cinco, seis, sete, oito and nove keep the same:
+
+    Três carros, três casas
+    Sete carros, sete casas
+
+.
+Tens - Dezenas
+
+Among the two digit numbers, the tens never change: dez, vinte, trinta, quarenta, cinquenta, sessenta, setenta, oitenta, noventa.
+
+But the units one and two keep changing, since you add them to the number using "e":
+
+    (40) Quarenta carros, quarenta casas
+    (21) Vinte e um carros, vinte e uma casas
+    (72) Setenta e dois carros, setenta e duas casas.
+    (35) Trinta e cinco carros, trinta e cinco casas.
+
+Let's just allow some exceptions from 11 to 19, which get special names: onze, doze, treze, quatorze (or catorze), quinze, dezesseis, dezessete, dezoito, dezenove. They don't change, because there is not the "e um/uma" or "e dois/duas" part:
+
+    Onze carros, onze casas
+    Doze carros, doze casas
+    Dezesseis carros, dezesseis casas
+
+.
+Hundreds - Centenas
+
+Now the hundreds, except for one hundred, got to change again. The hundreds are: cem, duzentos, trezentos, quatrocentos, quinhentos, seiscentos, setecentos, oitocentos, novecentos. "Cem" is the only that changes a little when not exaclty 100, but it doesn't change genders. The others don't change when not exact, but change genders.
+
+One hundred:
+
+    (100) Cem carros, cem casas
+    (101) Cento e um carros, cento e uma casas
+    (113) Cento e treze carros, cento e treze casas
+    (142) Cento e quarenta e dois carros, cento e quarenta e duas casas
+
+More hundreds:
+
+    (200) Duzentos carros, duzentas casas
+    (201) Duzentos e um carros, duzentas e uma casas
+    (502) Quinhentos e um carros, quinhentas e duas casas
+    (712) Setecentos e doze carros, setecentas e doze casas
+    (341) Trezentos e quarenta e um carros, trezentas e quarenta e uma casas
+
+.
+Thousands - Milhares
+
+Now let's talk about the thousands!!! Ah! The thousands....
+They are friendly hahaha. In fact there is only one word: mil.
+
+You just add how many thousands before it, just like in English. The amount you put before it behaves just like normal numbers from 2 to 999. Why 2 and not 1? Because when it's one thousand, we just say "mil".
+
+And after the word "mil", you add the part that is lower than one thousand, following their rules. The "e" word is added after mil only if there is no other "e" in the following number:
+
+One thousand:
+
+    (1000) Mil carros, mil casas
+    (1001) Mil e um carros, mil e uma casas ("e" after mil)
+    (1300) Mil e trezentos carros, mil e trezentas casas
+    (1111) Mil cento e onze carros, mil cento e onze casas (no "e" after "mil")
+
+If you are working with money, you may find some "hum mil", but that is probably only to avoid people adding something else on the check to change the value. Never mind about the weird "H", I don't know why.
+
+More thousands:
+
+    (2000) Dois mil carros, duas mil casas
+    (2001) Dois mil e um carros, duas mil e uma casas
+    (2431) Dois mil quatrocentos e trinta e um carros, duas mil quatrocentas e trinta e uma casas
+
+Waay more thousands (the numbers before "mil" behaves exaclty as if they were alone):
+
+    (932.813) Novecentos e trinta e dois mil, oitocentos e treze carros
+    Novecentas e trinta e duas mil, oitocentas e treze casas
+
+No, the dot is not a mistake. In Portuguse, it's the comma that separates decimals. We use dots to separate thousands, millions and others...
+
+.
+Millions - Milhões
+
+Now millions start to behave differently. Milhão is a masculine word, so you don't have to worry about genders anymore, except, of course, for the rest of the number, which keeps following the previous rules.
+But now there is a new change: "milhão" has a plural form milhões.
+
+If the noun comes after it, you use "de":
+
+    Um milhão de carros, um milhão de casas
+
+If there are more numbers, they behave the same as before, and there is no "de":
+
+    (1.000.001) Um milhão e um carros, um milhão e uma casas
+
+If it's more than one million, it gets plural. The number before it also behaves the same as before, but referring to "milhões", thus masculine:
+
+    (2.000.000) Dois milhões de carros, dois milhões de casas
+
+    (31.517.921) Trinta e um milhões, quinhentos e dezessete mil, novecentos e vinte e um carros
+    Trinta e um milhões, quinhentas e dezessete mil, novecentas e vinte e uma casas
+
+.
+Billions, trillions.... - Bilhões, trilhões....
+
+Well...we don't see them much.... In fact I had to google their names after "trilhão".
+
+Their behavior is the same as the millions'. Plural forms, no genders and take "de" when the noun comes straight after it.
+
+They are: bilhão, trilhão, quatrilhão, quintilhão, sextilhão, septilhão, octilhão, nonilhão, decilhão.
+
+Well, that's it....for this part I really prefer working with powers :p
+
+For writing texts, I've found this manual on the internet: http://www12.senado.gov.br/manualdecomunicacao/redacao-e-estilo/estilo/numero
+
+
 ** Participle vs. Gerund
 ** Por que, porque, por quê and porguê
+Hello there.
+
+I'm not sure if there is already a topic on this in Duolingo, but I couldn't find one. So here it goes:
+
+    Por que = Why
+
+    Used to ask questions (even if the sentence is a statement)
+    Example: Eu quero saber por que isso acontece = I want to know why this happens
+
+    Porque = Because
+
+    Used to answer questions
+
+    Por quê = why
+
+    Also used to ask questions, but it's used in the end of the sentence
+
+    O Porquê (noun) ~ The reason why/The cause
+
+http://unibhpedagogia.files.wordpress.com/2013/09/porque.jpg
+
+Translation:
+
+    Why is it separate?
+    Because it's not together!
+    But why?
+    The reason I don't know
+
+
 ** Verbs with two past participles
+On your Portuguese studies here on Duolingo, I’m sure all of you have come across the past participle (particípio passado), usually recognized by the ending –do and used in Portuguese, together with the verbs “ter” and “haver”, to form the compound tenses.
+
+That, however, is not the whole story when it comes to the use of the Portuguese particípio passado, for there is a number of verbs that actually have two different past participles, each being used in specific instances according to the auxiliary verb used:
+
+    The regular participle (particípio passado regular), always ends in -ado or -ido, it is not inflected and is used only when the auxiliary verb is ter ou haver (in compound tenses);
+    The irregular participle (particípio passado irregular), is irregular in ending, and inflected according to gender and number, and is generally used only when the auxiliary verb is ser ou estar (in the passive voice).
+
+Note: The non-inflection is a product of the auxiliary verb and not of the participle itself: verbs with only one participle will always inflect it when using "ser" ou "estar". (e.g. Elas foram acompanhadas pelos pais, where "acompanhar" is a verb with one only participle, "acompanhado").
+
+This group of verbs with two past participles include, among others, “matar” (matado; morto), “acender” (acendido; aceso), and “extinguir” (extinguido; extinto):
+
+    Depois de ter matado o homem, o suspeito fugiu. After having killed the man, the suspect escaped.
+    A mulher foi morta pelo marido. The woman was killed by her husband.
+    Ele tinha acendido as velas do meu bolo de aniversário. He had lit the candles of my birthday cake.
+    A vela foi acesa pelo homem. The candle was lit by the man.
+    Os bombeiros têm extinguido fogos durante todo o verão. The firemen have been extinguishing fires all Summer.
+    Os fogos estão extintos. The fires are [have been] extinguished.
+
+In these cases, using the regular past participle with "ser" and "estar" and the irregular past participle with "ter" and "haver" is considered wrong - the two are not usually interchangeable (scroll down to read about a few nuances to this rule).
+
+You have probably encountered most of these irregular forms, which come from Latin, as adjectives (A mulher morta – the dead woman; a vela acesa – the lit candle; o fogo extinto – the extinguished fire); a few of them eventually became used as nouns, with the past participle no longer being used as such (“crucifixo” – crucifix, unused irregular past participle of “crucificar”, to crucify; “rapto” – kidnapping, from the verb “raptar”, to kidnap).
+Nuances and Exceptions to the Rule
+
+There are also a few verbs like “pagar” (pagado; pago), “ganhar” (ganhado; ganho), “gastar” (gastado; gasto) where the irregular forms are the ones most used for every auxiliary verb (having generally substituted the use of the regular forms), but with both still being heard in speech and writing (and with a few linguists defending the use of the regular forms at least in tandem with the irregular ones):
+
+    Depois de ter pago a conta, saí do restaurante. After I paid the bill, I left the restaurant.
+    Depois de ter pagado a conta, saí do restaurante.
+
+A few other verbs (e.g. “abrir”, “escrever”, “cobrir”) only accept the irregular form for all occasions (aberto, not abrido; escrito, not escrevido; coberto, not cobrido), with the use of the “regular” forms being considered less-cultured and an improper backformation.
+
+    A mulher tinha aberto uma loja, mas esta faliu rapidamente [not “tinha abrido”]. The woman had opened a shop, but it quickly went out of business.
+    Ele tem escrito vários romances nos últimos anos [not “tem escrevido”]. He has written several novels in the last few years.
+    O homem esteve coberto com água até ao pescoço até ser salvo [not "esteve cobrido"]. The man was covered in water by the neck until he was rescued.
+
+You can find a few tables with the most important verbs which follow this pattern together with the relevant nuances. If you have any doubts, questions, or suggestions, feel free to start a discussion on the comments below or to send me a message.
+Sources:
+
+    Ciberdúvidas da Língua Portuguesa: [1], [2]
+    Jornal Diário de Notícias: Verbos com duplo particípio passado
+    Professor Online
+    Recanto das Letras
+    Rede Globo
+    Blogue “Na Ponta da Língua”
+
+Tables:
+Legend:
+
+    asterisk (*) - form used both for compound forms (ter/haver) and the passive voice (ser/estar)
+    red background - form no longer used (archaic or almost so, existing only through adjectives/nouns)
+    green background - most used form out of two still available
+    grey + strikethrough - backformation (shouldn't be used at all)
+
 * Inflections
 ** A complete guide to definite articles
 ** a complete guide to indefinite articles
