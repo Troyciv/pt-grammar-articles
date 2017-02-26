@@ -120,7 +120,7 @@ An abstract noun is something that is conceptual or not physically real. A house
     With many abstract nouns to mean thing - O que eles fizeram foi uma crueldade - What they did was an act of cruelty.
 
 In this sentence, the words 'act' and 'cruelty' are both abstract nouns, but they are both being used to mean to mean one thing - an act of cruelty. The sentence, 'The animal has suffered cruelty', only has one abstract noun and not two or more that are all talking about one thing so the rule would not apply.
-** Meu or o meu
+** TODO Meu or o meu
 * General Grammar
 ** Conditionals
 Hey there. I think this should have been posted long ago, specially because of the confusions with past subjunctive and other conditional tenses in incomplete sentences.
@@ -424,7 +424,36 @@ For writing texts, I've found this manual on the internet: http://www12.senado.g
 
 
 ** Participle vs. Gerund
-** Por que, porque, por quê and porguê
+The participle is used for passive voices and makes adjectives out of a verb.
+
+While the gerund is only for ongoing actions, being done at the time of speaking.
+
+Sitting and standing are bad examples, exceptions. It looks like we don't consider those as actions in Portuguese, but passive/stopped things. We see "sentado" like an adjective instead. Try seeing this way: sentar does not mean just remain sitting, sentar means only the movement of sitting down.
+
+That's why we use participles/adjectives "sentado" (sitting), "parado"/"em pé" (standing), and "encostado" (leaning onto sth.). Those are "stopped" things, so we use participles. You could say those work as adjectives, you can say a man is seated, is stopped, is leaned.
+
+Different from "running", "walking", "waiting", which are ongoing actions, you can't say a man is runned, is walked, is waited. Then "está correNdo, está andaNdo, está esperaNdo".
+
+For those using participle, if you use the gerund, then it will mean the man is actually on the process of doing the action. See:
+
+"O homem sentado" is stopped, sitting on the chair.
+
+"O homem sentaNdo" is somewhere between standing and sitting, he is in the middle of the process of sitting down.
+
+"O homem encostado" is stopped, leaning onto the wall.
+
+"O homem encostaNdo" is somewhere between standing and leaning, he is in the leaning process.
+
+For those using the gerund, if you use the participle, then it will be an adjective or a passive voice:
+
+"O homem esperaNdo" is waiting.
+
+"O homem esperado" is waited. (Adjective)
+
+"O homem (é)/(está sendo) esperado" - is being waited (Passive voice)
+
+(being runned and being walked doesn't make sense)
+** TODO Por que, porque, por quê and porguê (image)
 Hello there.
 
 I'm not sure if there is already a topic on this in Duolingo, but I couldn't find one. So here it goes:
@@ -454,7 +483,7 @@ Translation:
     The reason I don't know
 
 
-** Verbs with two past participles
+** TODO Verbs with two past participles (images)
 On your Portuguese studies here on Duolingo, I’m sure all of you have come across the past participle (particípio passado), usually recognized by the ending –do and used in Portuguese, together with the verbs “ter” and “haver”, to form the compound tenses.
 
 That, however, is not the whole story when it comes to the use of the Portuguese particípio passado, for there is a number of verbs that actually have two different past participles, each being used in specific instances according to the auxiliary verb used:
@@ -508,38 +537,1696 @@ Legend:
     grey + strikethrough - backformation (shouldn't be used at all)
 
 * Inflections
-** A complete guide to definite articles
-** a complete guide to indefinite articles
+** DONE A complete guide to definite articles
+   CLOSED: [2017-02-26 So 00:41]
+** DONE a complete guide to indefinite articles
+   CLOSED: [2017-02-26 So 00:41]
 ** Numbers and their genders
+Just to make it a little more challenging, Portuguese numbers also take genders, but not all of them.
+
+.
+Units - Unidades
+
+The one digit numbers are: um, dois, três, quatro, cinco, seis, sete, oito, nove.
+
+Among them, only one and two take genders:
+
+    Um carro, uma casa
+    Dois carros, duas casas
+
+The others, três, quatro, cinco, seis, sete, oito and nove keep the same:
+
+    Três carros, três casas
+    Sete carros, sete casas
+
+.
+Tens - Dezenas
+
+Among the two digit numbers, the tens never change: dez, vinte, trinta, quarenta, cinquenta, sessenta, setenta, oitenta, noventa.
+
+But the units one and two keep changing, since you add them to the number using "e":
+
+    (40) Quarenta carros, quarenta casas
+    (21) Vinte e um carros, vinte e uma casas
+    (72) Setenta e dois carros, setenta e duas casas.
+    (35) Trinta e cinco carros, trinta e cinco casas.
+
+Let's just allow some exceptions from 11 to 19, which get special names: onze, doze, treze, quatorze (or catorze), quinze, dezesseis, dezessete, dezoito, dezenove. They don't change, because there is not the "e um/uma" or "e dois/duas" part:
+
+    Onze carros, onze casas
+    Doze carros, doze casas
+    Dezesseis carros, dezesseis casas
+
+.
+Hundreds - Centenas
+
+Now the hundreds, except for one hundred, got to change again. The hundreds are: cem, duzentos, trezentos, quatrocentos, quinhentos, seiscentos, setecentos, oitocentos, novecentos. "Cem" is the only that changes a little when not exaclty 100, but it doesn't change genders. The others don't change when not exact, but change genders.
+
+One hundred:
+
+    (100) Cem carros, cem casas
+    (101) Cento e um carros, cento e uma casas
+    (113) Cento e treze carros, cento e treze casas
+    (142) Cento e quarenta e dois carros, cento e quarenta e duas casas
+
+More hundreds:
+
+    (200) Duzentos carros, duzentas casas
+    (201) Duzentos e um carros, duzentas e uma casas
+    (502) Quinhentos e um carros, quinhentas e duas casas
+    (712) Setecentos e doze carros, setecentas e doze casas
+    (341) Trezentos e quarenta e um carros, trezentas e quarenta e uma casas
+
+.
+Thousands - Milhares
+
+Now let's talk about the thousands!!! Ah! The thousands....
+They are friendly hahaha. In fact there is only one word: mil.
+
+You just add how many thousands before it, just like in English. The amount you put before it behaves just like normal numbers from 2 to 999. Why 2 and not 1? Because when it's one thousand, we just say "mil".
+
+And after the word "mil", you add the part that is lower than one thousand, following their rules. The "e" word is added after mil only if there is no other "e" in the following number:
+
+One thousand:
+
+    (1000) Mil carros, mil casas
+    (1001) Mil e um carros, mil e uma casas ("e" after mil)
+    (1300) Mil e trezentos carros, mil e trezentas casas
+    (1111) Mil cento e onze carros, mil cento e onze casas (no "e" after "mil")
+
+If you are working with money, you may find some "hum mil", but that is probably only to avoid people adding something else on the check to change the value. Never mind about the weird "H", I don't know why.
+
+More thousands:
+
+    (2000) Dois mil carros, duas mil casas
+    (2001) Dois mil e um carros, duas mil e uma casas
+    (2431) Dois mil quatrocentos e trinta e um carros, duas mil quatrocentas e trinta e uma casas
+
+Waay more thousands (the numbers before "mil" behaves exaclty as if they were alone):
+
+    (932.813) Novecentos e trinta e dois mil, oitocentos e treze carros
+    Novecentas e trinta e duas mil, oitocentas e treze casas
+
+No, the dot is not a mistake. In Portuguse, it's the comma that separates decimals. We use dots to separate thousands, millions and others...
+
+.
+Millions - Milhões
+
+Now millions start to behave differently. Milhão is a masculine word, so you don't have to worry about genders anymore, except, of course, for the rest of the number, which keeps following the previous rules.
+But now there is a new change: "milhão" has a plural form milhões.
+
+If the noun comes after it, you use "de":
+
+    Um milhão de carros, um milhão de casas
+
+If there are more numbers, they behave the same as before, and there is no "de":
+
+    (1.000.001) Um milhão e um carros, um milhão e uma casas
+
+If it's more than one million, it gets plural. The number before it also behaves the same as before, but referring to "milhões", thus masculine:
+
+    (2.000.000) Dois milhões de carros, dois milhões de casas
+
+    (31.517.921) Trinta e um milhões, quinhentos e dezessete mil, novecentos e vinte e um carros
+    Trinta e um milhões, quinhentas e dezessete mil, novecentas e vinte e uma casas
+
+.
+Billions, trillions.... - Bilhões, trilhões....
+
+Well...we don't see them much.... In fact I had to google their names after "trilhão".
+
+Their behavior is the same as the millions'. Plural forms, no genders and take "de" when the noun comes straight after it.
+
+They are: bilhão, trilhão, quatrilhão, quintilhão, sextilhão, septilhão, octilhão, nonilhão, decilhão.
+
+Well, that's it....for this part I really prefer working with powers :p
+
+For writing texts, I've found this manual on the internet: http://www12.senado.gov.br/manualdecomunicacao/redacao-e-estilo/estilo/numero
+
 * Moods and Tenses
-** conditionals in Portuguese
-** Gerund vs. infinitive confusion
-** if it happens to be future subjuntive
+** DONE conditionals in Portuguese
+   CLOSED: [2017-02-26 So 00:42]
+** DONE Gerund vs. infinitive confusion
+   CLOSED: [2017-02-26 So 00:43]
+** If it happens to be future subjuntive
+Hey! Just got a "click" here!
+
+I've seen some lessons containing lots of "future subjunctive" tenses, and many doubts. We often try to explain them as "possibilities in future" as opposed to an "actual situation", but I still feel something misses in those explanations to make it clear.
+
+Of course it would be better to keep the translations simple, but let me try a "fancy" translation here. You can use "to happen to" as a way to try understanding better the meaning of the future subjunctive in Portuguese.
+
+Future subjunctive often appear with particles "se" (if), "quando" (when) and "enquanto" (while).
+
+Let's take verb "estar" for instance:
+
+    Se ele estiver lá = If he happens to be there
+    Quando ele estiver lá = When he happens to be there
+
+An alternative Portuguese translation for the first sentence is "Se ele por acaso estiver lá" = "If he by chance is there" (The second sentence doesn't fit this form).
+
+    Enquanto ele estiver lá -- now, I'm not sure if this one is ok using "happen to", but let's try: While he happens to be there. (This considers all the time from now to the future while he remains there, taking into acount the possibility of he going away at any time).
+
 ** Imperatives and object pronouns
-** Learning to conjugate Portuguese verbs (Part I)
-** Learning to conjugate Portuguese verbs (Part II)
-** Participle vs. gerund
+I know that since Brazilian Portuguese typically uses «você» as the primary second-person pronoun, which grammatically would be similar to «usted» in Spanish (though você is less formal in B. Portuguese as usted is in Spanish). I understand that because of this, Portuguese imperatives with você typically involve the subjunctive mood of the verb, just as the imperative for usted is the subjunctive mood.
+Ex: Olhar --> olhe
+Ex: Conhecer --> conheça
+
+However, in Spanish, sometimes direct/indirect object are added to imperatives if the command relates to it. An accent is put on the second-to-last syllable of the original imperative to maintain emphasis on the verb even with the object attached at the end.
+Ex: tranquilízate --> calm yourself (tranquiliza + te)
+Ex: enséñeselo --> teach it to her (enseñe + se + lo)-
+Ex: líbranos --> release us (libra + nos)
+Ex: dígamelo --> tell it to me (diga + me + lo)
+-le changes to se when a direct object is added.
+
+How would I do this in Portuguese? How would I put an object on the end of an imperative? Does it involve a hyphen instead of an accent? Thank you for any help.
+
+*** Answer
+First: "imperative" and "subjunctive" are different things. We are talking about imperative conjugations here, which exist for both second and third persons.
+
+Pronouns can be either before or after the verb (sometimes even in the middle, but that's future tense and rare). There are certain words that attract the pronoun if they are before the verb, being "não" one of them. But normally, the pronoun should go after the verb.
+
+Whenever the pronoun is after the verb, it needs an hyphen. And the "o/a" pronouns become "lo/la" if the verb ends in "s", "r" or "z". They also become "no/na" if the verb ends in "m" or other nasal forms (õe, for instance).
+
+For pronoun positioning, European Portuguese is more strict than Brazilian Portuguese. Brazilian Portuguese common language doesn't see any problem putting the pronoun before the verb, while European Portuguese considers it wrong if the attracting word is not there. (Also, Brazilian spoken language carries a looot of mixing "tu" and "você" forms, as @tjasonham has shown, here I'll try to keep it grammar-wise)
+
+Examples for "tu" conjugations (negative "tu" conjugations are different):
+
+    Ensina-me = Teach me
+    Não me ensines = Don't teach me ("não" attracts the pronoun, "tu" negative imperative is different)
+    (BP) Me ensina (although the formal rules still ask for "Ensina-me").
+
+Now, choosing between "tu" and "você" conjugations may involve formality and politeness sometimes, but it seems random to me and it also depends a lot on which part of the country or which country we are talking about.
+
+Your examples (except the enséñeselo, which I'll try to understand later) can use either "tu" or "você" conjugations:
+
+    (Tu) Livra-nos -- Não nos livres
+    (Vc) Livre-nos -- Não nos livre
+
+If the object is the person receiving the command: The second person pronoun "te" will become "se" when "você" is used :
+
+    (Tu) Tranquiliza-te -- Não te tranquilizes ("te" is reflexive for "tu")
+    (Vc) Tranquilize-se -- Não se tranquilize ("se" is reflexive for "você")
+
+Pronouns will mix themselves if they are two, but this is very rare to see in Brazil. (Me + o = mo / Me + a = ma).
+It's really better to avoid adding "o/a" here, and if necessary add it not as a pronoun:
+
+    (Tu) Diz-mo/ma -- Não mo/ma digas // Diz-me -- Não me digas (algo)
+    (Vc) Diga-mo/ma -- Não mo/ma diga // Diga-me -- Não me diga (algo)
+
+Alternatively, use "para mim = to me" instead of "me":
+
+    (Tu) Di-lo/la para mim = Não o/a digas para mim
+    (Vc) Diga-o/a para mim = Não o/a diga para mim
+
+About "enséñeselo", I don't know if it's a passive voice contruction or if "se" really refers to "him/her".
+The indirect pronoun for "him/her" in Portuguese is "lhe". The direct one is "o/a":
+
+Again, the "lho/lha" forms are very rare and people might not understand it, use "lhe" instead:
+
+    (Tu) Ensina-lho/lha -- Não lho/lha ensines (Being "lhe = to him/her" and "o/a = it")
+    (Vc) Ensine-lho/lha -- Não lho/lha ensine
+
+Alternatively:
+
+    (Tu) Ensina-o/a para ele/ela - Não o/a ensines para ele/ela
+    (Vc) Ensine-o/a para ele/ela - Não o/a ensine para ele/ela
+
+Now, is that "se" in "enséñeselo" really "lhe"?? Or is it a "passive voice particle"? In the following example, using the "se" passive particle, only the third person conjugation is valid, because the subject is what is being taught, not "you":
+
+    Ensine-se-lhe = Let/That it be taught to him/her
+    Não se lhe ensine
+
+
+** TODO Learning to conjugate Portuguese verbs (Part I) (images)
+Learning to Conjugate Portuguese Verbs
+
+Verb conjugation is the process of producing verb forms according to mood (indicative, subjunctive, etc.), tense (present, past, future, etc.) and person (I, you, he/she, etc.). If you are a native English speaker who has just started learning Portuguese it soon becomes painfully apparent that the number of unique words in the full conjugation of a Portuguese verb is much larger than for an English verb.
+
+There are two basic approaches to learning conjugations, one is to simply absorb them as they come up (that's the Duolingo way) and the other is to take the time to study the subject. Luckily, the vast majority of verbs are regular and are conjugated by a common set of rules . The aim of this article is to show how the rules can be written in a way that helps you to remember them and to show how the regular rules can be used to simplify the conjugation of irregular verbs.
+
+I know this article is longer and more technical than a typical discussion, nonetheless I hope it's not out of place here and will be a useful reference, or at the very least makes you believe that learning the regular conjugation patterns is not that hard after all.
+
+The ideas discussed here have been used to make a PDF verb cheat sheet to download, print out and keep (I've tried to ensure the document is error-free, but before committing conjugations to memory it would be wise to confirm them with a good online conjugator like Conjuga-me first).
+Conjugating Regular Verbs
+
+Traditionally conjugations of verbs are described by tables, one per verb. For regular verbs, a single table suffices for an entire class. The basic idea is that you remove the last two letters, "-ar", "-er" or "-ir", from the infinitive form to get its stem and then add the appropriate ending taken from the table.
+
+Attempting to remember all the entries in the regular verb table can take a bit of effort because there are nine simple Portuguese tenses, 6 in the indicative and 3 in the subjunctive:
+
+        Indicative: present, preterite, imperfect, pluperfect, future, conditional
+        Subjunctive: present, imperfect, future
+
+Fortunately, Brazilian Portuguese only requires four conjugations per tense, one each for "Eu", "Ele/Ela/Você", "Nós" and "Eles/Elas/Vocês". (Note, the imperative mood is identical to the present subjunctive without the "Eu" entry.) So, given there are three verb classes, AR, ER and IR, that means memorising: 4 (subjects) times 9 (tenses) times 3 (classes) = 108 endings. All 108 endings are tabulated in these model conjugations of the regular verbs FALAR (to speak), COMER (to eat) and PARTIR (to depart):
+
+Imgur
+
+I believe it takes less effort to recall conjugations using a different model where endings can be appended to different base types - the stem, the infinitive, or the infinitive without the final "r" - depending on which choice simplifies the pattern. This table illustrates the idea:
+
+table
+
+As with the stem-based approach, each quartet of endings is listed in the order ["Eu", "Ele/Ela/Você", "Nós", "Eles/Elas/Vocês], but now a single set can apply to more than one verb class. There is only a small downside to this gain in simplicity - you now need to recall which base type to use with which tense, but that's hardly a problem in practice.
+
+Because all "Nós" conjugations end in "mos" and all "Eles/Elas/Vocês" conjugations end in "m" (with one exception noted in the text accompanying the table) these suffixes are not shown explicitly which has the benefit of revealing patterns that may not have been so obvious otherwise. In fact, once this is done, four sets of endings have identical entries for all subjects; only an acute accent added to the "Nós" versions of some sets stops that figure becoming seven, i.e. half the table! Increasing the number of base types from three to five permits an even more compact representation with only 39 entries (a saving of 69) although I resisted the temptation to include this version in the cheat sheet:
+
+compact
+
+Using nothing more than the table and its associated notes, it should be possible to conjugate any regular verb. Generating a conjugation is a simple process of finding the correct ending from the table and appending it to the given base form of the verb (possibly with the addition of "mos", "m" and/or a graphic accent). I hope this very terse description is clear, but perhaps comparing the endings in the table with those shown in the verb models given earlier will dispel any doubts.
+
+It is also interesting to note that the "Tu" endings are easy to add because for most tenses they are the "Você" form + 's'. The exceptions to this rule are: the preterite which needs "R + ste"; the future subjunctive which needs "I + es"; and the imperative which is the same as the "Você" present indicative.
+Conjugating Irregular Verbs
+
+Not all verbs follow the regular rules and these fall into two categories, those that require predictable changes to the regular patterns, and a group of truly irregular verbs. Most textbooks take several pages to tabulate the conjugations of the core set of 24 irregular verbs shown in this list:
+
+    CABER (to fit), CRER (to believe), DAR (to give), DIZER (to say), ESTAR (to be), FAZER (to do), HAVER (there to be), IR (to go), LER (to read), MEDIR (to measure), OUVIR (to hear), PEDIR (to ask for), PERDER (to lose), PODER (to be able), PÔR (to put), QUERER (to want), RIR (to laugh), SABER (to know), SER (to be), TER (to have), TRAZER (to bring), VALER (to be worth), VER (to see), VIR (to come).
+
+As the full conjugation of a verb in all tenses requires nine lines per verb (one for each tense) writing out these verbs takes 9 (lines) times 24 (verbs) times 4 (subjects) = 864 words. That's a lot to remember!
+
+Despite their name, even the most irregular of irregular verbs have some things in common with their entirely regular cousins and this can be exploited to reduce the memorisation task. The trick is to employ the regular rules you already know, but apply them, not to the infinitives or stems of the irregular verbs themselves, but to carefully chosen alternatives instead. In most cases the alternatives are taken from the "Eu" form of the present indicative and the "Eles/Elas/Vocês" form of the preterite.
+
+In fact, it is only necessary to specify between one to four lines per irregular verb to have enough information to conjugate it fully. To illustrate this, here are the descriptions of four verbs of different complexity measured in terms of the number of lines needed to describe them (all 24 are described in the cheat sheet):
+
+four verbs
+
+Provided you know how to deal with regular verbs, this notation can help you visualise or produce full conjugations of these irregular verbs with relative ease. The remainder of this article will explain this process by detailing which tenses are described by which lines.
+
+Line 1: Present indicative and/or Present subjunctive
+
+    If this is a single word it is the "Eu" conjugation of the present indicative (and the rest of the conjugation is regular), otherwise it supplies the entire present indicative conjugation. If a stem is shown in bold type it is used to produce the present subjunctive through the regular rules for ER verbs.
+
+Line 2: Preterite, Pluperfect, Imperfect subjunctive and Future subjunctive
+
+    This line produces nearly half the entire conjugation. It usually supplies the full preterite conjugation and the word in bold (the "Eles/Elas/Vocês" conjugation less "-am") provides an infinitive to generate the pluperfect, imperfect subjunctive and future subjunctive. If the line consists of a single word then it can also be used to generate the preterite itself. Two small flies in the ointment are: a) the graphic accents given to the "Nós" conjugations of the pluperfect and imperfect subjunctive must be acute (for a regular ER verb they are circumflex); b) in the case of IR and SER the infinitive is FOR but there are no rules for OR verbs - the solution is to treat them as ER verbs and use a circumflex accent when needed (i.e. use "fôramos" and "fôssemos").
+
+Line 3: Present subjunctive
+
+    For a small group of verbs the present subjunctive is not based on the present indicative and this line supplies the stem (of a fictitious ER verb) to generate it. I've seen the acronym "HIS DESQ" used to describe this group because it consists of "Haver-Ir-Ser Dar-Estar-Saber-Querer". For the verbs (other than SER) that require a fourth line this entry is simply a place-holder.
+
+Line 4: Imperfect indicative
+
+    There are only four verbs in this set that are irregular in the imperfect indicative: TER, VIR, PÔR and SER and this line supplies the conjugation. One way to remember it and the verbs involved is to sing or chant the core words of the conjugations which are "Tinha/Vinha/Punha/Era".
+
+All unspecified conjugations are regular based on the true infinitive (or PÔR without its accent). The three verbs DIZER, FAZER and TRAZER, which I call the ZE verbs, are irregular in the future indicative and the conditional but those conjugations can be found by applying the regular rules to the infinitives with "ZE" removed, i.e. DIR, FAR and TRAR.
+
+To sum things up, this table shows which tenses are specified by which lines:
+
+tenses and lines
+
+As an example, here is the way to tackle the most complex irregular verb, SER:
+
+        Line 1 gives the present indicative: [sou, é, somos, são]
+        Line 2 supplies the infinitive FOR and gives the preterite: [fui, foi, fomos, foram]
+        Use FOR to get the pluperfect: [fora, fora, fôramos, foram]
+        Use FOR to get the imperfect subjunctive: [fosse, fosse, fôssemos, fossem]
+        Use FOR to get the future subjunctive: [for, for, formos, forem]
+        Line 3 supplies the stem SEJ to get the present subjunctive: [seja, seja, sejamos, sejam]
+        Line 4 gives the imperfect indicative: [era, era, éramos, eram]
+        Use SER to get the future indicative: [serei, será, seremos, serão]
+        Use SER to get the conditional: [seria, seria, seríamos, seriam]
+
+If you are just starting your journey towards Portuguese mastery I hope this article gives you a small push in the right direction. Be sure to test yourself with tommg's conjugation practice tool.
+
+
+** TODO Learning to conjugate Portuguese verbs (Part II) (images)
+Learning to Conjugate Portuguese Verbs 2
+
+Have you ever wondered how many verbs Duolingo teaches you? Well, according to my notes, you will have met 278 verbs by the end of the course. This is the list I made:
+
+    abandonar, abrir, acabar, acampar, aceitar, acender, achar, acontecer, acordar, acreditar, acrescentar, adorar, agradecer, aguentar, ajudar, alugar, amar, analisar, andar, anotar, anunciar, aparecer, apertar, aplicar, apontar, aprender, apresentar, arrumar, assar, assinar, assumir, assustar, atender, atingir, atrasar, atuar, aumentar, beber, beijar, CABER, cair, caminhar, cantar, carregar, chamar, chegar, chorar, chover, cobrir, colocar, colorir, começar, comer, comprar, comprovar, concordar, conferir, confundir, conhecer, conseguir, consertar, considerar, construir, contar, continuar, controlar, conversar, convidar, correr, cortar, costumar, cozinhar, crescer, criar, cruzar, cuidar, custar, dançar, DAR, decidir, dedicar, defender, definir, deixar, demonstrar, depender, derrotar, descansar, descobrir, descolorir, descrever, desculpar, desenhar, desenvolver, deTER, dever, DIZER, diminuir, dirigir, doer, dormir, duvidar, eliminar, empurrar, encher, encontrar, ensinar, entender, entrar, enviar, envolver, errar, escolher, escrever, escutar, esperar, esquecer, estacionar, ESTAR, estrelar, estudar, evitar, exigir, existir, explicar, explorar, expressar, FAZER, falar, falhar, fechar, ferir, frever, ficar, filmar, formar, fotografar, frear, fritar, fumar, ganhar, garantir, gastar, girar, gostar, gritar, guardar, HAVER, IR, imPEDIR, importar, imprimir, incluir, iniciar, interessar, introduzir, jogar, julgar, juntar, lançar, lavar, LER, lembrar, levar, levantar, limpar, machucar, manTER, MEDIR, melhorar, mentir, merecer, misturar, montar, morar, mostrar, mover, mudar, nadar, nascer, navegar, negar, nevar, observar, obTER, odiar, oferecer, olhar, OUVIR, pagar, parar, parecer, partir, participar, passar, PEDIR, pegar, pensar, PERDER, perguntar, pertencer, pesar, pescar, pesquisar, pintar, PODER, PÔR, poupar, praticar, precisar, preferir, preocupar, preparer, procurar, produzir, prometer, provar, publicar, pular, queimar, QUERER, realizar, receber, reconhecer, recuperar, recusar, reencontrar, relacionar, repetir, reservar, resolver, respeitar, responder, RIR, romper, roubar, SABER, sair, salvar, secar, seguir, sentar, sentir, SER, servir, significar, soar, sofrer, somar, sonhar, sorrir, subir, suPOR, sustentar, telefonar, tentar, TER, terminar, tirar, tocar, tomar, trabalhar, tratar, TRAZER, treinar, usar, vender, VER, vestir, viajar, VIR, virar, visitar, viver, voar, voltar, votar
+
+If you look at the list carefully you'll see that the some verbs are written in plain lower-case (Group 1 - 187 verbs), bold upper-case (Group 2 - 22 verbs), a mix of lower-case and upper-case bold (Group 3 - 5 verbs), lower-case italics (Group 4 - 39 verbs) and lower-case bold (Group 5 - 25 verbs).
+
+The aim of this document is to demonstrate how these verbs can be conjugated without the use of an online conjugator or a book of conjugation tables. Of course, you need to be able to recognize which verbs belong to which groups (without the typography hints given in the list) and just enough information to deal with the special cases. In practice, you'll probably never need to fully conjugate any of these verbs and it will be sufficient to memorise the most commonly used conjugations, but seeing what factors influence the way a verb is inflected may help you to do that.
+Group 1. Regular verbs
+
+Regular verbs can be conjugated by applying the rules mentioned in Part 1 of this article. I recommend you learn these rules as soon as you can even if you don't yet know what terms like imperfect subjunctive mean. You could simply treat it as game and test yourself using a good practice tool until producing regular conjugations is automatic.
+Group 2. Irregular verbs
+
+The core set of irregular verbs was also covered in Part 1 of this article. My approach to the conjugation of irregular verbs is based on a mixture of the regular rules and remembering a stylised description of each verb. Even for the most complex irregular verbs no more than three tenses need to be committed to memory because the rest can be found using the regular rules.
+Group 3. Compound Irregular verbs
+
+Group 3 consists of 5 verbs derived from irregular verbs by adding a prefix:
+
+        DETER
+        IMPEDIR
+        MANTER
+        OBTER
+        SUPOR
+
+These compound verbs can be conjugated by adding the same prefix to all the conjugations of the irregular verb itself. Compounds of TER take an acute accent on the 3rd person singular ("Ele/Ela/Você") form of the present indicative, i.e. where TER has tem, DETER, OBTER, and MANTER have detém, obtém and mantém.
+Group 4. Orthography-changing verbs
+
+Regular conjugation is a simple matter of adding endings to stems but sometimes this can lead to problems. The letters 'c' and 'g' change sound depending on the following vowel. The sound of 'c' before 'a' and 'o' is hard like /k/, but before 'e' and 'i' it has the soft sound /s/. Similarly, 'g' has a hard sound /g/ before 'a' and 'o' and a soft sound /zh/ before 'e' and 'i'. This is significant for the regular conjugation of any verb whose stem ends in 'c', 'ç' or 'g'. That's because, no matter which letter the ending starts with, 'a', 'e' or 'o', all the conjugations must preserve the sound (hard or soft) of the verb itself. The way this is done is quite simple: if the default combination of the final letter of the stem with the first letter of the ending sounds wrong or is illegal like "çe" or "çi", it is substituted by a legal one that has the correct sound. This table shows the different ways of preserving /k/, /s/, /g/ and /zh/ before 'a', 'e' and 'o':
+
+cgvowel
+
+For example, the stem of the verb FICAR ends with a 'c' that sounds /k/. According to the table, combining 'c' with endings that start with 'o' or 'a' will sound /k/ too, but the combination "ce" must be replaced with "que". Another example is DIRIGIR. Here the 'g' sounds /zh/ and thus the combinations "go" and "ga" must be replaced with "jo" and "ja". A final example is COMEÇAR where "çe" is replaced by "ce".
+
+At most three tenses are affected by these changes: the entire present subjunctive and either the 1st person singular ("Eu") form of the present indicative or the "Eu" form of the preterite. Knowing these simple rules gives you the ability to conjugate many more verbs.
+Group 5. Semi-irregular verbs
+
+Essentially this group consists of classes of irregular verbs where each class has enough commonality for it be governed by its own set of rules. Knowing whether a verb belongs to this group or not is simply a matter of memory, although there are some clues given by the infinitive endings -ear, -iar, -oer, -air, -uir and -uzir.
+
+The features of this group are presented using a notation similar to that used to describe irregular verbs in Part 1. Only one line is required and it defines the present indicative. If the "Eu" stem is bold then it is used to produce the present subjunctive based on the class (AR, ER or IR) of the verb. For most verbs all other conjugations are regular.
+
+The easiest case is the collection of -uzir verbs. They are entirely regular except for one conjugation, the "Ele/Ela/Você" form of the present indicative where the regular ending 'e' is dropped. Using the same notation used to describe the common irregular verbs the two examples in the Duolingo list are:
+
+        INTRODUZIR - [introduzo, introduz, introduzimos, introduzem]
+        PRODUZIR - [produzo, produz, produzimos, produzem]
+
+The remaining group 5 verbs are discussed in the next section.
+Stem-changing verbs.
+
+Another word for stem is radical so these verbs are often called radical-changing verbs. My definition of what constitutes a stem-changing verb is quite broad and linguists may have more precise classification terms for some of the verbs discussed in this section.
+
+To understand the features of this class it's necessary to know a little about the way conjugations are stressed when spoken. There are 36 words in a full conjugation of a verb (nine tenses times four subjects) but only six of them are stressed on the stem and they all belong to the present tenses. As an example, take the regular verb COMER:
+
+        Present indicative: [cOm-o, cOm-e, com-Emos, cOm-em]
+        Present subjunctive: [cOm-a, cOm-a, com-Amos, cOm-am]
+
+Notice how only the 1st person plural ("Nós") forms are stressed on the ending while the other six are stressed on the key vowel ('o') of the stem. The verb DORMIR is characterised by its irregular "Eu" form DURMo, where the stem vowel has been changed from 'o' to 'u' and its present tenses are:
+
+        Present indicative: [dUrm-o, dOrm-e, dorm-Imos, dOrm-em]
+        Present subjunctive: [dUrm-a, dUrm-a, dorm-Amos, dUrm-am]
+
+giving a wider variation in the sounds of these conjugations. A subtlety here is that stressed 'o' and 'e' have two sounds each (open and closed) which means that if some conjugations are pronounced with the open version and some pronounced with the closed version the verb is actually stem-changing although there are no written clues to indicate this.
+
+The most typical stem changes are key vowel alterations: 'o' to 'u', 'e' to 'i' and 'u' to 'o'. Other variations on this theme include only changing the 3rd person stems, changing all the stems except those of the "Nós" conjugations, or changing the stem vowel for a diphthong (essentially a two letter vowel like, for example, "ai" and "ei"). The Duolingo list has examples of all these types.
+
+Irregular "Eu" form
+Verbs with this kind of change can be described with a single word giving the irregular "Eu" form of the present indicative with the implication that the present subjunctive is based on its stem:
+
+        COBRIR - CUBRo
+        CONFERIR - CONFIRo
+        CONSEGUIR - CONSIGo
+        DESCOBRIR - DESCUBRo
+        DORMIR - DURMo
+        FERIR - FIRo
+        PREFERIR - PREFIRo
+        MENTIR - MINTo
+        REPETIR - REPITo
+        SENTIR - SINTo
+        SEGUIR - SIGo
+        SERVIR - SIRVo
+        VESTIR - VISTo
+
+Technically, CONSEGUIR and SEGUIR are also orthography-changing verbs because "gu" has been changed to "g".
+
+Other irregularities
+When reading the descriptions of these verbs keep in mind that whenever the stem of the "Eu" form of the present indicative is regular, the present subjunctive is also regular. An example of this simple type is:
+
+        SUBIR - [subo, sobe, subimos, sobem]
+
+where 'u' has been changed to 'o' in the 3rd person singular ("Ele/Ela/Você" and "Eles/Elas/Vocês") stems. More complex is
+
+        SORRIR - [SORRIo, sorri, sorrimos, sorriem]
+
+where the stem has been changed from SORR to SORRI except in the "Nós" (SORR-imos) form of the present indicative and the regular 3rd person singular ending 'e' has been dropped.
+
+In the next two examples the stem vowel ('i'/'e') is replaced by the diphthong "ei" in all six stem-stressed forms of the present tenses, but the unstressed ("Nós") forms are regular.
+
+        ODIAR - Use ODEI in all six stem-stressed forms
+        FREAR - Use FREI in all six stem-stressed forms
+
+The next set have a mixture of changes and are more difficult to handle:
+
+        CAIR - [CAIo, cai, caímos, caem]
+        CONSTRUIR - [construo, constrói, construímos, constroem]
+        DIMINUIR - [diminuo, diminui, diminuímos, diminuem]
+        INCLUIR - [incluo, inclui, incluímos, incluem]
+        SAIR - [SAIo, sai, saímos, saem]
+
+As with the orthography-changing verbs, here the regular rules produce some unfortunate combinations of the final letter of the stem with the first letter of the ending. For example, take the "Eu" form of the imperfect indicative of CAIR. The regular conjugation is found by taking the infinitive stem CA and adding the ending "ia" to get caia. Unfortunately, according to the less than straightforward rules of Portuguese pronunciation, this word should be stressed on the diphthong "ai" whereas, as mentioned earlier, this is one of the conjugations that should be stressed on the ending "ia". The way around this problem is to add a graphic accent to the first letter of the ending: caía.
+
+Now consider the regular 3rd person singular form of the preterite which is caiu. The pronunciation rules in this case mean the stress is on the ending diphthong "iu" and so it doesn't need a graphic accent.
+
+A very similar thing happens with all the verbs in this last group. Take INCLUIR, for example. The conjugations equivalent to the CAIR ones are: incluia and incluiu; the first needs a graphic accent on the 'i' giving incluía, but the second one doesn't need an accent because it is already stressed on "iu".
+
+It's not enough to be able to pronounce the words correctly to write them correctly unless you are also familiar with the rules for adding diacritics. If you are not, it is difficult to patch the regular conjugations to get the correct ones. I don't have an easy answer to this problem. As a workaround, this table shows where the acute accents are needed for all the tenses (six indicative and three subjunctive):
+
+accents
+Defective and Abundant verbs
+
+The Duolingo list includes impersonal verbs like CHOVER (to rain) and NEVAR (to snow) that are only conjugated in the 3rd person singular (because it makes no sense to say things like "We rain"). An impersonal verb is an example of a defective verb which is one with fewer than normal conjugations.
+
+Another oddity in the list is COLORIR which has some deprecated conjugations in the present tenses. The verb DOER (to hurt) is a defective stem-changing verb with two forms per tense (a thing hurts/some things hurt) and has an irregular present indicative, dói/doem and, only because accents are required, an irregular imperfect indicative, doía/doíam.
+
+One of the few certainties about Portuguese verbs is that the present participle can be found by adding the ending -ndo to the infinitive without the final 'r' (e.g. falando). The regular past participle can be found by appending -ado to the stem of AR verbs and -ido to the stem of ER/IR verbs. Many verbs also have irregular past participles and this is the most typical type of abundant verb, that is a verb with more than one word for a particular form. An excellent discussion of these verbs can be found in the article Language Notes: Verbs with Two Past Participles by Luis_Domingos.
+Summary
+
+My intention in writing the first part of this article was simply to encourage anyone starting to study Portuguese, particularly native English speakers (English is a comparatively conjugation-free zone) to learn how to conjugate regular verbs and the core set of irregular verbs. In this second part I've tried to show how many more verbs can be conjugated with no more than a single line description of their irregularities. Even if you don't remember these descriptions, I hope that now you have seen the most common verb variations: regular, irregular, orthography-changing, stem-changing, etc., you'll be able to recognize other members of these classes and be able to write your own shorthand descriptions to help you remember their conjugations. If you still prefer to use tables a free verb booklet can be downloaded. This includes around 60 verbs fully-conjugated and an index of a few additional hundred verbs, each of which is conjugated in the same way as one of the base set. You'll need to supply your own English translations of the verbs because the original is intended for a German audience.
+** DONE Participle vs. gerund
+   CLOSED: [2017-02-26 So 00:50]
 ** Portuguese tenses - what do they mean
+This lesson has created a lot of confusion and doubts about what the Portuguese tenses should mean, not only the "present perfect" (which has been given a wrong name, it's called "pretérito perfeito composto"), but others as well.
+
+So here are some of them regarding non-conditional past tenses and how to compare them with English tenses:
+
+    Please note that using time adverbs like "sempre", "durante" and others can twist the meanings of the tenses and use constructions that seems not to follow the general idea.
+
+.
+Simple tenses:
+
+Pretérito perfeito (Ex: falei)
+
+Portuguese: Past perfect. -- English: Simple past / present perfect
+
+    Time referred by the sentence: past
+    Occurrences: Single
+    Done and finished in the time referred by the sentence
+    Idea: time spot/point in past
+
+In Portuguese, the past perfect is not composed with an auxiliary verb, it's a simple verb past,
+
+Thus, it matches the English simple past. And since there is no Portuguese option for "present perfect" (see below), it also matches the English present perfect.
+A good idea is to picture a time spot/point in past, focusing the conclusion of the action. It doesn't carry the continuity idea, nor a "time room" idea.
+
+    I have done my job = I did my job = Eu fiz o meu trabalho
+
+Pretérito imperfeito (Ex: falava)
+
+Portuguese: Imperfect past -- English: past continous / past habit or routine (used to)
+
+    Time referred by the sentence: past
+    Ocurrences: single or unknown
+    State in time referred by the sentence: unfinished / taking place
+    State in present: finished
+    Idea: time room or continuity in past
+
+The "perfect" word in tenses means that the action is "concluded/done/finished". Then, the imperfect past is used to represent a not finished action in the past. Then it has a "continuous" idea. But it stays completely in te past. The action does not continue to the present.
+It's interesting to picture a time room idea in the past. The focus of this tense is not a spot in time, but a time room where the action used to occur/was occurring.
+
+    Eu tomava banho quando ela ligou - I was taking a shower when she called
+    Eu corria muito naquela rua - I used to run a lot in that street.
+
+Pretérito mais-que-perfeito (Ex: falara - no accent)
+
+Portuguese: More than perfect past -- English: past perfect / simple past
+
+    Time referred by the sentence: past
+    Occurrences: single
+    State in time refered by the sentence: done and finished before
+
+This tense is rarely used nowadays, but should someone get interested, here it goes.
+More than perfect means it is perfect in the past. It's the past in the past.
+
+Imagine a sentence that talks about a past time.
+While the past perfect indicates an action done and finished at the time refered by the sentence, the more than perfect past indicates an action done and finished before the time of the sentence.
+
+    Ontem ele destruiu o carro que comprara antes = yesterday he destroyed the car that he had bought before.
+
+.
+Composite tenses:
+
+(*)Pretérito perfeito composto (Present TER + past participle --- Ex: tenho falado)
+
+(*)This is what Duolingo calls "present perfect", because its structure is the same as English present perfect, but that name doesn't apply in Portuguese.
+
+Portuguese: Composite past perfect - English: present perfect continous
+
+    Time referred by the sentence: present and past continously
+    Occurences: unknown / many
+    State in present: many finished occurences / occurrences might continue to happen.
+
+Besides the "perfect" word, this tense doesn't look very "perfect". It describes an habit or a routine that has been taking place and still takes place in the present. A recurring action.
+A very good way to understand this tense is to add "lately" at the end of a sentence, to remind it's an habit that started somewhere in the past and hasn't been gone yet.
+
+So it's a series of "perfect"/finished actions that have been repeating.
+
+    Tenho chegado cedo = I have been arriving early (and I still arrive early)
+    Tenho feito muita coisa = I have been doing a lot of things (and I still do them)
+
+If you are interested in knowing more about how would the "present perfect" be translated into portuguese, take a look here: https://www.duolingo.com/comment/12292400
+
+Pretérito mais-que-perfeito composto (Imperfect past TER + past participle --- Ex: tinha falado)
+
+Portuguese: composite more than perfect past - English: past perfect
+
+    Time referred by the sentence: past
+    Occurrences: single
+    State in time referred by the sentence: done and finished before
+
+Fortunately, this is a perfect match. A single action that had been finished in the past.
+It's commonly used when the state in present is undone, the action had been done but somehow it was destroyed or undone.
+
+    Eu tinha feito tudo ontem - I had done everything yesterday (might suggest those things were undone after that)
+    Eu já tinha feito tudo ontem - I had already done everything yesterday. (true past in past meaning)
+
+That "undone" idea comes from of a common question that appears when one uses the "imperfect past": "Tinha? Não tem mais? - You had/used to have? Don't have anymore?"
+
+.
+Composite tenses using gerund:
+
+Present VIR + gerund (Ex: venho falando)
+
+English: present perfect continous
+
+    Time referred by the sentence: present and past continuously
+    Occurrences: single continous or many
+    State in time referred by the sentence: started in the past, still being done in the present
+
+Sometimes people use this tense with the same meaning of the Portuguese fake present perfect (pretérito perfeito composto), many occurrences that have been taking place and might still continue.
+But this one can also be used for a single action that has been continously done and hasn't been finished yet. A long term action.
+
+    Ele vem fazendo um bom trabalho - He has been doing a good job (he still does a god job)
+    Eu venho falando isso há muito tempo - I've been saying this for a long time
+
+Imperfect past VIR + gerund (Ex: vinha falando)
+
+English: past perfect continous
+
+    Time refered by the sentence: past continously
+    Occurrences: single continous or many
+    State in time referred by the sentence: being continously done
+    State in present: finished / not done anymore
+
+And finally (sorry for that big post)...
+The tense that matches the English past perfect continous. It represents a single or a group of actions that had been continously done in the past, but ceased being done in the past too. So it doesn't extend to the present.
+
+    Ele vinha fazendo um bom trabalho - He had been doing a good job (but doesn't anymore)
+
+Go back to the Portuguese Help Index:
+https://www.duolingo.com/comment/6331998
+
 ** Prepositions used with infinitive verbs
+Lots of sentences have infinitive verbs in it, and they often come associated with a preposition before them. That preposition has a meaning that is different from its standard meaning.
+
+So, before infinitive verbs, you can try this (not a strict rule, but a good start, please notice that there is a big range of possibilities, here are a few)
+
+A + infinitive: turns it into some kind of gerund action.
+
+    Estou a andar = I'm walking
+
+De + infinitive: it can be the cause of something, generally you can use "of/from" to replace it. And it's used to tell the usage of somethings:
+
+    Estou cansado de andar = I'm tired from walking
+    Esta barriga grande é de comer demais = this big belly comes from eating too much
+    Esta fruta é de comer? = Can this fruit be eaten? (is it real or plastic?)
+
+Para + infinitive: indicates an objective or goal:
+
+    É para comer = It's to be eaten (I made these breads for you to eat)
+    Vim aqui para falar = I came here to speak.
+    Isso é necessário para consertar o carro = That is necessary in order to fix the car.
+
+Hint: Ask "what for?" (para que?)
+
+No preposition: normally a direct object just being itself.
+
+    Quero andar = I want to walk (WHAT do I want? I want to walk)
+
+Gerunds and other cases
+
+Please be aware that MANY times, the other verb or the thing coming before the infinitive verb will define the preposition and override those patterns.
+
+    Gosto de andar = I like walking (this preposition is demanded by the verb "gostar", so it has nothing to do with the given explanation about "de")
+
+    Ele começou a falar = He started to speak (Like "started to" in English. You alyways use "start to" (começar a) or "start gerund", but gerund cannot be used that way in Portuguese)
+
+An excellent way of comparing the two languages is taking the English Gerunds (not present participles), which simply don't exist in Portuguese, being replaced by the infinitive instead. In this case, English can get as many different prepositions as Portuguese, and what preposition to use will get a lot clearer when you correlate things:
+
+    He is too young for voting = Ele é muito novo para votar
+    Do you see any problem in doing this? = Você vê algum problema em fazer isto?
+    Try doing it yourself = Tente fazer você mesmo(a).
+    He's afraid of going home alone = Ele tem medo de ir para casa sozinho
+    They have paid the price for doing evil things = Eles pagaram o preço por fazerem coisas más/maldosas.
+    Gerund is the key to understanding why Portuguese infinitive can take so many different prepositions! = O gerúndio ("gerund" em inglês) é a chave para entender por que o infinitivo em Português pode receber tantas preposições diferentes!
+
+Again, remember that even that trick can fool us, because prepositions don't always translate directly into other languages, unless they are talking about physical places.
 ** Present Perfect - wrong translations?
+Hello there.
+
+Here we are going to talk about the Portuguese verb tense that has the same structure of the English Present Perfect, but not the same meaning nor the same name!!
+
+Currently, Duolingo's skill called "present perfect" does not have quite the right name, but that is something that will change as soon as possible (but not tomorrow unfortunately).
+
+In Portuguese, this structure is called "pretérito perfeito composto", and its meaning is always about repetition that has been occurring lately.
+
+That said, you can feel safe to translate it using the present perfect continous instead!
+
+    Ele tem chegado atrasado = He has been arriving late
+    Nós temos procurado por respostas = We have been searching for answers
+    Tem chovido mais que o normal = It has been raining more than usual
+
+Curiosly, it's one of the features in this language that differs from all other major languages I know using this tense: Spanish, French, English, Italian and German.
+
+Now, you're probably wondering:
+How do I translate the present perfect into Portuguese then?
+
+.
+Here, we've got a few different cases to look upon.
+
+1 - Concluded actions / Not recurrent:
+
+In this case, you just use the simple "pretérito perfeito":
+
+    I have done my job = Eu fiz o meu trabalho
+    She has found her way home = Ela encontrou o caminho para casa.
+    He hasn't kept any of his promises = Ele não cumpriu nenhuma de suas promessas.
+    We have written many books together = Escrevemos muitos livros juntos.
+
+This is somehow expected, since you can actually use the "simple past" as a synonym of the "present perfect" without significant changes in meaning.
+
+With this, you can also fit the adverbs "always", "ever" and "never" in the same case, even though they appear to be recurrent or continous:
+
+    I have never seen such a thing = Eu nunca vi uma coisa dessas.
+    She has always been like this = Ela sempre foi assim.
+    Have you ever found a pink diamond? = (Alguma vez) Você já encontrou um diamante rosa?
+
+.
+
+2 - Things going on since a certain point in the past:
+
+Now, here is an interesting difference that tricks many Portuguese speakers as well.
+
+When the case is about something true since of for some time, the translations use the present tense instead:
+
+    I have lived here since I was a kid = Eu moro aqui desde quando eu era uma criança
+    She has not drunk since the accident = Ela não bebe desde o acidente.
+    I haven't seen that in years! = Eu não vejo isso há/faz anos!
+    They have been there for 10 months = Eles estão lá há/faz 10 meses.
+
+Notice the usage of "há/faz" for measured time periods in this case.
+You can use either "há", "faz" or "tem", being "há" the most suited for texts.
+
+But don't be tempted to use "por", for it suits "finished" time periods: "Morei aqui por 10 anos = I lived here for 10 years". In these "finished" periods, "há" would become "ago".
+
+This usage of the present tense would match other Romance Languages too.
+
+PS: the "pretérito perfeito composto" can be used with this meaning too in many cases.
+
+.
+
+3 - The tricky "to be" and some "stative" verbs:
+
+Finally, the verb "to be" and some of the so called "stative verbs" behave differently.
+
+The verb to be used in "present perfect" can mean a state that has been repeating / lasting for a while. In this case, you can translate word by word:
+
+    I have been tired = Eu tenho estado cansado (this is a state that has been repeating lately).
+    She has been happy lately = Ela tem estado feliz ultimamente.
+
+One possible explanation for this is that you cannot write things like "have been being".
+
+But please don't let the "lasting state" notion here make you think "a single long action" could use this tense in Portuguse. This tense is about "recurring actions".
+So, how to understand all that simply?
+
+Just remember: Portuguese "ter + past.participle" always means a "recent repetition". So, if the English sentence means that, you can translate it with the Portuguese "pretérito perfeito composto".
+
+If the English sentence cannot or does not mean a recent repetition, then the Portuguese tense must be changed to fit the true meaning.
+
+
 ** Question about "perfeito" and "imperfeito"
+Hello, I have just a short question about the „perfeito“ and „imperfeito“ topic in Portugues.
+
+I think, that I understand the basics of the usage of those. This is how I understand it:
+
+Perfeito = For concluded. momentary or not habitual actions that happened in the past. (Had a fixed point of time)
+
+Imperfeito= For actions that continiued (had a duration) in in the past. Or for habitual actions. Or for „background information. (No fixed point of time )
+
+Okay so let´s take the sentence „I tanslated this text“ which would be either „Traduzi este texto.“ or „Eu traduzia este texto“.
+
+The act of translating a text is a not habitual act (let´s say at least in this case ), which would argue for the „perfeito“
+
+The act is also finished (I am not translating anymore), which would also argue for the „perfeito“
+
+But the act of translating, if it was a long text to translate, could have continiued in the past for several days or let’s say I translated it step by step than the act could last for several weeks (or even month). That would argue for the „imperfeito“.
+
+I hope you get my problem, I often have cases where I can’t decide what tense I should use because somehow both make sense to me in a certain way.
+
+So it would be nice if someone could explain me what the better translation of „I translated this text“ is and why. „Eu traduzia este texto“ or „Traduzi este texto“
+
+*** answer
+You are on the right track about the "point" and "time room" ideas.
+
+The "perfeito" talks about an action that "has been done", it's a point in time where the action was concluded. The other gives emphasis to the "room" or "continuity" of the action in the past.
+
+But unfortunately, you can't use the imperfeito just to mean that the "book took too long to translate". In that case, you would still use the "perfeito", unless there is more context and you want to insert other actions iside that time room.
+
+A good hint is to remember that the "pretérito perfeito" can be fairly compared to the English's "present perfect" (at least in common usages that are not affected by elaborated constructions or modifying adverbs). When you can substitute the simple past by the present perfect, you would surely (95%?) translate it with the "pretérito perfeito".
+
+.
+Try transforming your English sentence into another matching tense, such as:
+
+    Present perfect - If it fits, then use "perfeito".
+    Past continuous - If it fits, then use the "imperfeito".
+    Used to (habit/routine) - If it fits, then use the "imperfeito".
+
+Simple sentences in English may have more than one translation, but the meaning you want probably cannot be transformed into more than one of the options above.
+
+And a VERY NICE hint in the link Davu "has posted" (postou) is that "creating context" for a story you tell. Using the "imperfeito" creates the "time rooms" where you will insert your story.
+
+There are some examples below trying to stress these point and time room ideas.
+
+Without context, both translations you proposed would be good, but let's insert them into some context. (I've choosen/escolhi one of those options above instead of the simple past, because simple past can have many meanings)
+
+    No passado, eu traduzi 30 livros = In the past, I translated 30 books (in total).
+    A simple sentence telling the number of books I have translated. No further information.
+
+    No passado, eu traduzia 30 livros = In the past, I used to translate 30 books.
+    A sentence trying to put the "time room" for 30 books at a given time. Notice that the given time is a point (no passado), it doesn't have continuity, but the "translation" has it. That results in all books being translated at the same time.
+
+    Eu comi o almoço quando ela chegou = I ate the lunch when (after) she arrived.
+    Two "point" actions: at the moment she arrived, I started eating lunch. And the time between starting and finishing is totally ignored, not important.
+
+    Eu comia o almoço quando ela chegou = I was eating lunch when she arrived.
+    Putting the continuity to the lunch action means that it was taking place when she arrived. You insert the point (arrival) inside the time room (lunch).
+
+    Enquanto eu traduzia, ela tomou banho - While I tranlsated (was translating), she took a shower. The "while" idea forces continuity, that's why "traduzia" is used. Now, the focus here is on "to take shower". It's a point inserted into the "translation time room". "She has taken her shower".
+
+    Enquanto eu traduzia, ela tomava banho = While I was translating, she was taking a shower.
+    Now, you put continuity to both actions. That causes them to become parallel
+
+    Eu sempre fiz a mesma pergunta = I have always asked the same question
+    Beware of "sempre"! The adverb itself brings continuity and that could cause confusion. But fortunately, the "present perfect" still fits well. That means "something I always wanted to know, spent my life wanting to know, and still want to".
+
+    Eu sempre fazia a mesma pergunta = I was always asking (used to always ask) the same question
+    That runs away from the "time room" idea a little, because of "sempre". This means that I used to ask the same question again and again.
+
+
 ** Read this before starting the present perfect skill
-** Subjunctive guide
-** Subjunctive in English
+These lessons can be frustrating. The problem stems from the fact that literal translations of the Portuguese sentences you are about to see can lead you to false conclusions about the meaning they should convey in English. Another problem is that some of those false translations have found their way back into the system.
+
+Another user Riley (r_i_l_e_y) put together a note about this problem some time ago. Here it is: http://www.duolingo.com/comment/451217 (The direct link does not work and this is a PDF copy of the original thread courtesy of argovela).
+
+By placing this comment in the appropriate Skill Discussion area I hope to bring Riley's note to everybody's attention at the time it can do the most good, that is before you start the skill.
+
+I have no idea why the link is dead. Anyway, here is a fairly technical article that may help (it looks at things from a Brazilian learning English perspective):
+
+http://www3.telus.net/linguisticsissues/presperfect.html [sadly now a dead link]
+
+This is a slightly simplified summary:
+
+http://erikspen.wordpress.com/2007/03/25/present-perfect-in-brazilian-portuguese/
+
+The first example there shows the problem: "Ele tem bebido demais" has the literal translation "He has drunk too much" (and many Brazilian learners of English will tell you that is what it means), but a better translation is "He has been drinking too much" which is not the present perfect but the present perfect continuous.
+** TODO Subjunctive guide (images)
+The subjunctive (O subjuntivo) can be tricky to grasp for English speakers, as it's rare in our language. I'm putting this guide together in the hopes that it will help those who struggle with this aspect of Portuguese.
+What is the subjunctive?
+
+The subjunctive is a verb mood. What does that mean? A verb mood, of which there are four, shows the meaning behind a verb, not the time at which it occurred - the subjunctive ≠ a tense. The four verb moods which exist are the indicative, the conditional, the subjunctive, and the jussive. The indicative is the easier form which is learnt first - used for things like facts or definite situations, like “He was here”. The conditional is used for situations which are dependent on other situations to be able to occur, like “I would go, if I had the time“. The jussive is the form used for the “Let's ...“ and imperative forms of the verb, like “Let's eat” and “Eat!”. The subjunctive, however, is used in situations of doubt, desire, opinion, and others, which will be shown later.
+How to conjugate the subjunctive - Present Tense
+
+To conjugate the subjunctive in the present tense, take the eu form of the verb, remove the final -o, then add the following endings:
+
+So, let's look at these endings on some verbs:
+
+Due to orthographical rules in Portuguese, the spelling of some verbs changes when they are put into the subjunctive. Here are the endings that change, with an infinite and the eu form of the subjunctive as an example:
+
+There are unfortunately irregular verbs in the subjunctive. These are:
+
+    Ser: Sej- (For example, “Eu seja“, “Eles sejam“)
+    Estar: Esteja- (For example, “Tu estejas“, “Nós estejamos“)
+    Dar: D-; The final e takes a circumflex accent (For example, “Ele dê“,“Nós dêmos“)
+    Saber: Saib- (For example, “Eu saiba“, “Elas saibam“)
+    Haver: Haj- (For example, “Nós hajamos“, “Tu hajas“)
+    Ir: V-; Eu, Tu, Ele/Ela/Você: the a takes an acute accent. The Nós & Eles/Elas/Vocês conjugation is the same as the indicative (For example, “Ele vá“, “Nós vamos“)
+    Querer: Queir- (For example, “Eu queira“, “Elas queiram“)
+
+How the present subjunctive is used
+
+The use of the present subjunctive can be hard to get the hang of at first, as it appears so seldom in English (an example being “I suggest that he go“). If you've already encountered the subjunctive in other languages like Spanish, it will be a bit easier, as many of the “subjunctive phrases” will carry over to Portuguese. Likewise, getting familiar with the subjunctive in Portuguese first will help when it comes to using it in other languages.
+1. Doubt
+
+If there is doubt within a situation, the subjunctive is used. For example, phrases like “Não acredito que...“ (I don't believe that...), “Duvido que...“ (I doubt that...), “Não estou seguro de que...“ (I'm not sure that...) all use the subjunctive. The use and wording of phrases will depend on the region that you’re in. Remember that any phrases where there isn't doubt don't use the subjunctive, for example “Acho que...“ (I think that...) and “Não duvido que...“ (I don't doubt that...). Let's look at some example sentences - words in Italics are “subjunctive phrases“, and words in Bold are verbs in the subjunctive.
+
+    Não acredito que ele aprenda dez línguas à vez - I don't believe he learns ten languages at once
+    Não tenho a certeza de que isto seja bom - I'm not sure this is good
+    Eu duvido que estejas dizendo a verdade - I doubt you're telling the truth
+
+And here are these “subjunctive phrases“ flipped, to show them with the indicative:
+
+    Acredito que ele aprende dez línguas à vez - I believe that he learns ten languages at once
+    Tenho a certeza de que isto é bom - I'm sure this is good
+    Eu não duvido que estás dizendo a verdade - I don't doubt you’re telling the truth
+
+2. Wishes/Orders
+
+If there is a wish or an order, something which may not end up happening, the subjunctive is used. Some phrases which require the subjunctive are “Quero que...“ (I want (that)...), “Espero que...“ (I hope (that)...), and “Desejo que...“ (I wish (that)...). Let's look at some example sentences of this use:
+
+    Elas desejam que tudo vá bem - They wish that everything will go well
+    Nós não queremos que chova amanhã - We don't want it to rain tomorrow
+    Os meninos esperam que não haja escola na Quinta-Feira - The children hope that there's no school on Thursday
+
+3. Impersonal statements
+
+Statements like “É bom que...“ (It's good that...), “É fácil que...“ (It's likely that...), and “É improvável que...“ (It's unlikely that...) use the subjunctive. However, remember that the subjunctive is used where there is uncertainty - so statements like “É certo que...“ (It's certain that...) wouldn't be used with the subjunctive. Here are some example phrases:
+
+    É bom que o povo saiba os perigos - It's good that people know the dangers
+    É improvável que eles ganhem a partida - It's unlikely that they'll win the game
+    É estranho que ele não lembre - It's strange that he doesn't remember
+
+Here is a list of some phrases which use the subjunctive:
+
+4. Direct effect
+
+If an action affects you directly (e.g. “I don't like that...“), the subjunctive is used. Some phrases which use the subjunctive in this way are “Me perturba...“ (It bothers me that...), “Gosto que...“ (I like that...), and “Me entristece que...“ (It upsets me that...). Some examples are:
+
+    Me perturba que o voo seja cancelado - It bothers me that the flight is cancelled
+    Não gostamos que haja tanta gente - We don't like that there are so many people
+    Me entristece que você esteja tão infeliz - It upsets me that you’re so unhappy
+
+5. Fixed expressions
+
+Some fixed expressions use the subjunctive. Some examples of such expressions are “Embora...“ (Although...), “Não obstante que...“ (Despite...), and “A não ser que...“ (Unless...). Here are some examples:
+
+    Não obstante que esteja a chover, vamos nadar - Despite the fact that it’s raining, we are going to swim
+    Embora ele tenha fome, não come o jantar - Although he is hungry, he doesn’t eat dinner
+    Caso você não coma carne, há pratos vegetarianos - If you don’t eat meat (In the case of you not eating meat), there are vegetarian dishes
+    Não vou ao exterior a não ser que conheça alguém no país - I don’t go abroad unless I know someone in the country
+
+6a. Commands - Tu (Portugal)
+
+When saying a negative command to someone you address as “tu“, the tu form of the present subjunctive is used:
+
+    Não fales assim! - Do not speak like that!
+    Não esqueças tua bagagem de mão - Don't forget your hand luggage
+
+6b. Commands - Você & Vocês
+
+For commands said to someone you address as “você“ (both positive and negative), the ele/ela/você form of the present subjunctive is used:
+
+    Ponha a bolsa aquí - Put the bag here
+    Não fume no carro - Do not smoke in the car
+
+Likewise, commands to a group you address as “vocês“ use the eles/elas/vocês form of the present subjunctive:
+
+    Aprendam comigo! - Learn with me!
+    Por favor sejam pacientes - Please be patient
+    Não percam a chave - Do not lose the key
+    Não usem o elevador em caso de fogo - Do not use the lift in case of fire
+
+7. Oxalá/Tomara
+
+“Oxalá“ comes from the Arabic “Insha 'allah“, and means “Let's hope that”, or “I hope that”. An alternative is “Tomara“, which means the same thing. Both use the present subjunctive:
+
+    Oxalá não percamos nosso voo - Let's hope we don't miss our flight
+    Tomara seja bom! - Let's hope it's good!
+
+8. Que...
+
+The last use of the subjunctive is starting a sentence or clause with “Que“, then using the subjunctive. This is used to show desires and thoughts. For example:
+
+    Que nunca partamos! - Let's never leave!
+
+How to conjugate the subjunctive - Imperfect Tense
+
+The subjunctive also exists in the imperfect tense. To conjugate it, take the eles/elas/vocês form of the verb in the preterite tense and remove the -aram/-erem/-irem, then add the following endings:
+
+Here are the endings on the verbs we looked at for the present tense:
+
+How the imperfect subjunctive is used
+
+The imperfect subjunctive is used, for the most part, in the same cases as the present subjunctive, except for the fact that the preceding phrases are either in the conditional or imperfect tenses. So while the present subjunctive would be used with “Quero que...“ (I want (that)...), the imperfect subjunctive would be used with “Gostaría que...“ (I would like (that)..) and “Queria que...“ (I wanted (that)...). This carries across for all aspects:
+
+    Não pensei que ele aprendesse espanhol - I didn't think that he learnt Spanish
+    Esperávamos que todos o vissem - We hoped that everyone saw it
+    Seria improvável que ninguém viesse - It would be unlikely that no one came
+    Gostaria que lesses o livro - I’d like you to read the book
+
+However, if a structure like the “impersonal statements“ is used to refer back to a past event, this will remain in the present tense:
+
+    É bom que vocês sobrevivessem - It's good that you all survived
+    Não acredito que ele partisse sem dizer «Tchau» - I don't believe that he left without saying “Goodbye”
+
+Se + Conditional
+
+One feature of the imperfect subjunctive is the “Se + Conditional“ sentence. This is used to state hypothetical actions - which is why the subjunctive is used. This type of sentence is the only sentence where the subjunctive is still fairly identifiable in English - “If I were rich, I'd buy a mansion“. This type of sentence works exactly the same in Portuguese:
+
+    Se você não tivesse de trabalhar, o que você faria? - If you didn't have to work, what would you do?
+
+The sentence structure can also be flipped, starting with the conditional clause and then using the imperfect subjunctive. For example:
+
+    Eu falaria mais em português se tivesse mais confiança - I'd speak in Portuguese more if I had more confidence
+
+Como se...
+
+“Como se“ is the translation of “As if“ in Portuguese, which always uses the imperfect subjunctive. It works in the exact same ways as in English:
+
+    Foi como se nunca partisse - It was as if he never left
+    Como se apenas eu gostasse daquilo! - As if it were only I who liked it!
+
+Perfect and Pluperfect Subjunctive
+
+The perfect and pluperfect subjunctive tenses also exist in Portuguese. These are formed by either using the present subjunctive of Ter + Past Participle, or the imperfect subjunctive of Ter + Past Participle. For example:
+
+    É incrível que elas tenham ganhado a competição – It's incredible that they won the competition
+    Se tivéssemos sabido que o tempo seria tão mal, não teriamos ido – If we'd known the weather would be so bad, we wouldn’t have gone
+
+How to conjugate the subjunctive - Future Tense
+
+Portuguese is the only Romance language to still have the future subjunctive active. To conjugate the future subjunctive, take the eles/elas/vocês form of the verb in the preterite tense and remove the final -am, then add the following endings:
+
+Here are these endings on the verbs we looked at earlier:
+
+How the future subjunctive is used
+
+The future subjunctive is used to talk about future events with uncertainty. In most other languages, either the future indicative or present subjunctive is used in these cases.
+Quando...
+
+When “Quando“ is used with a future action, the future subjunctive is used:
+
+    Quando eu sair, irei ao parque e depois ao banco – When I go out, I will go to the park and then to the bank
+
+Remember that if “Quando“ isn’t referring to the future, the future subjunctive isn’t used:
+
+    Quando eu fui ao banco, havia muita gente - When I went to the bank there were a lot of people
+    Quando saio sempre lembro das minhas chaves - When I go out I always remember my keys
+
+Se...
+
+Like “Quando“, if “Se“ is used with a future action, the future subjunctive is used:
+
+    Se vocês não pararem de falar, teremos de partir - If you all don't stop talking, we'll have to leave
+
+Enquanto...
+
+“Enquanto“, meaning “As long as“, or “While“, used with a future action uses the future subjunctive:
+
+    Enquanto tu estiveres aqui, estarei feliz - As long as you are here, I'll be happy
+
+Compare this to the same phrase with the present indicative:
+
+    Enquanto tu estás aqui, estou feliz - As long as you are here, I'm happy
+
+The first sentence is referring to the future, whereas the second is referring to the present.
+Assim que.../Logo que...
+
+Both “Assim que“ and “Logo que“ mean “As soon as“. Like “Quando“, “Se“, and “Enquanto“, when referring to a future action they use the future subjunctive:
+
+    Assim que eu tiver feito todo o meu trabalho, poderei ir com vocês - As soon as I've finished all my work I'll be able to come with you
+    Ela vai chamar-nos logo que se recuperar - She is going to call us once she is better
+
+
+** TODO Subjunctive in English
 * Possessives
-** Meu or o meu
+** Meu or o meu (maybe leaving it out)
 * Prepositions
 ** Help with isso, disto, aquilo, aquele, naquele, naquilo
-** How to choose between "isto" and "este"
-** Imperatives and object pronouns
-** It - What is "it" in Portuguese after all?
-** Qual x que x o que
+Hello there :)
+
+In order to understand all these words, there are a few important things to notice:
+
+    There are only 6 words you need to remember: isto, isso, aquilo, este, esse, aquele
+    "Isto, isso, aquilo" work in a way
+    "Este, esse, aquele" work in another way, and these have inflections.
+    Everything else, starting with "d", "n" or "à" is formed by contracting these with prepositions (so you can actually understand them as two words together)
+
+So, let's see those in detail:
+Isto, isso, aquilo
+
+There are three genderless pronouns that represent things. They replace the nouns, so they are used alone, and they have no plural form. (They cannot be used as "determiners")
+
+    Isto = this (thing) near the speaker
+    Isso = that (thing) near the listener (Brazilians mix isto and isso, both meaning this)
+    Aquilo = that (thing) far from both.
+
+See them matching place adverbs here for distance hints:
+https://www.duolingo.com/comment/15158763
+
+.
+
+Examples:
+
+    Eu quero isto = I want this
+    Ela bebe aquilo = She drinks that
+
+Este, esse, aquele
+
+There are three demonstrative pronouns that work like adjectives. They must point to a noun in the sentence, and they inflect according to the gender and number of the noun they are pointing to. So they work like an adjective pronoun (a determiner in English grammar).
+
+Inflections:
+
+    Masculine singular: Este, esse, aquele
+    Feminine singular: Esta, essa, aquela
+    Masculine plural: Estes, esses, aqueles
+    Feminine plural: Estas, essas, aquelas
+
+Examples:
+
+    Este homem, Esta mulher, Estes homens, Estas mulheres (man, woman, men, women)
+    Esse carro, essa cor, esses carros, essas cores (car, color, cars, colors)
+    Aquele sapato, aquela bota, aqueles sapatos, aquelas botas (shoe, boot, shoes, boots)
+
+When used alone:
+
+These can also be used alone, without a following noun. But then, the noun is implied and they still need to agree with the implied noun. In this case they will mean "this/that one" or "these/those ones". (English has the option of omitting "one(s)" sometimes)
+
+The distance rules are the same from the previous ones:
+
+    Isto, este - near the speaker
+    Isso, esse - near the listener (In Brazil, "este" and "esse" are also mixed up)
+    Aquilo, aquele - far from both speaker and listener
+
+How to choose between "isto" and "este": https://www.duolingo.com/comment/3857621
+Contractions
+
+All others are their COMBINATIONS with PREPOSITIONS.
+These combinations do not change the meaning of those words, they just add a preposition to them. So, you can actually understand them as two words attached.
+
+The prepositions are demanded by the verbs or by the specific sentence construction, they don't depend on these pronouns at all, but when the following prepositions are used, they are required to combine (1).
+
+Examples of combinations:
+
+    de + isto / isso / aquilo = disto / disso / daquilo
+    em + isto / isso / aquilo = nisto / nisso / naquilo
+    a + aquilo = àquilo ("a" only combines with pronouns starting with "a")
+
+These apply the same way with "este / esse / aquele", forming words such as: "deste, dessas, daqueles, nestas, nesses, naquele, àquele, àquelas...."
+
+General Examples:
+
+    Eu penso naquilo (pensar demands preposition em) = I think about that
+    Ela pensa nisso = she thinks about this/that
+    Eles gostam disto (gostar demands preposition de) = they like this/it
+    Eu gosto daqueles sapatos = I like those shoes
+    Ela gosta desses livros = she likes these/those books
+    Ele pensa nestas botas = He thinks of these boots
+    Eles querem isto. = They want it/this (querer doesn't demand a preposition)
+    Eles querem este (implied masculine noun) = They want this one
+    Elas pensam naquele menino = they think about that boy
+    Eu vou àquela casa (ir demands preposition a) = I go to that house
+    Ela quer aqueles (implied masculine plural noun) = She wants those
+    Ela quer daqueles (implied masculine plural noun) = She wants from those
+
+(1) There is a particular case where the combination is not required and the preposition must be loose: when the word it should combine with is the subject of a clause, normally with an infinitive verb:
+
+    Eu o escutei antes de ele aparecer = I heard him before he appeared
+    Existe a possibilidade de ele chegar mais cedo = There is the possibility of him arriving earlier
+    Tome o remédio no caso de isto piorar = Take the medicine in case this gets worse
+
+
+** Mastering debaixo, embaixo and abaixo
+Well...perhaps this is too much to concern about, but that is how I use them....
+
+These rules are not THAT strict, but they might help those who are precision lovers.
+
+Physically under objects and other things, somehow nested or covered by it, you use "debaixo", accepting "embaixo" and "sob" too. (Sob is not very common, and often confused for "sobre = on/over").
+
+    Debaixo/Embaixo da mesa - Sob a mesa - under the table
+    Debaixo do carro - Embaixo do carro - Sob o carro - under the car
+    Debaixo de chuva - Embaixo de chuva - Sob chuva - under rain (in the rain)
+    Debaixo do mesmo teto - Embaixo do mesmo teto - Sob o mesmo teto - under the same roof (lit: ceiling)
+
+Now, for positional orientation or level, use abaixo, accepting also "embaixo" (you see, embaixo will be the easy choice after all :p ). By orientation I mean locating the position of things related to others not necessarily covering them. (Think about the expressions "to the right - à direita" and "to the left - à esquerda". I wonder why there isn't one saying "to the down", but if it existed, it would be "abaixo"). It's good for map analysing, screens, identifying/locating things in the distance. Different from "debaixo", this one usually accepts adverbs.
+
+    O Uruguai fica abaixo/embaixo do Brasil = Uruguay is below Brazil (looking to a map)
+    O botão fica abaixo/embaixo da foto de perfil = The button is under the profile photo (in a website).
+    Mais abaixo - Mais embaixo = Lower
+
+And finally, if there is motion dowards, use only "abaixo" or "para baixo". (Abaixo fits mostly only after a noun, creating an expression like "down the noun").
+
+    Desceu/Foi morro abaixo = Went down the hill
+    Foi por água abaixo = Went down the drain (expression meaning it's all lost/over)
+    Rio abaixo = Down the river
+    O edifício foi abaixo = The building went down (fell).
+
+For regular motion dowards, use "para baixo".
+
+Now, the differences :p
+
+    Minha casa é debaixo/embaixo da (casa) dele (My house is probably part of the same building of his)
+    Minha casa é abaixo da dele (It can mean my house is down the road, or in a lower level, but not necessarily part of the same building)
+
+Here, "embaixo" takes a dubious meaning, but tends to "debaixo".
+
+
+** Por and para
+Para
+
+"Para" is the easy preposition. It is always the destination/goal/objective/the planned action. Normally you can imagine it as motion from somewhere to (para) elsewhere, even in abstract cases.
+
+    Dei algo para ele = I gave (to) him something
+    Vou para a escola = I go to school.
+
+(If there are exceptions, they are few).
+
+A good translation for "para" when used for an "objective/planned action" is "in order to".
+
+    Eu vim para resolver meu problema = I came to (in order to) solve my problem.
+
+So, whatever comes after "para" is a destination/goal.
+Por
+
+Now "Por" is the complicated one. It can be:
+
+Cause
+
+    Foi por isso que eu voltei = It was because of it that I came back
+    Fiz por amor = I did it for love (because of love)
+
+A mix between cause and thing you want to "promote/benefit"
+
+    Ele luta pela comunidade = He fights for the community (to help it, to keep it alive, to benefit it)
+    Tudo por você = All for you / All because of you (it's not an accusation, but the subject wants to see "you" well - see further explanation below).
+
+Means through which things are done:
+
+    Ela me falou por telefone = She told me by the phone
+    Por meio de ... = by means of...
+
+On behalf of
+
+    Eu falo por ele = I speak on behalf of him
+
+Ask for / wait for
+
+    Ela pede por água = She asks for water
+
+This "ask for" case is tricky. One could think that "water" is the goal/objective. But just see that the motion is not from her to the water, but from the water towards her.
+
+    To say "ela pede para água" is nonsense.
+    But you can say "pede para sair" (asks to get out). Here, sair is the objective, the planned action.
+
+The same would apply to "esperar".
+
+    Ele espera por um milagre (he waits for a miracle - to come to him)
+    Ele espera para fazer de novo (he waits to do it again)
+
+Comparing
+
+    Foi por isso que eu voltei = I came back because of it.
+    Foi para isso que eu voltei = I came back for that (as the planned acion, came back in order to do that)
+    .
+    Tudo pela comunidade = All for/because of the community (I do all I can to help the community)
+    Tudo para a comunidade = All for/to the community (the community is receiving the things being given. Motion towards the community)
+    .
+    Eu falo por ela = I speak on behalf of her
+    Eu falo para ela = I speak to her/I tell her
+    .
+    Ele respondeu por mim = He answered on my behalf
+    Ele respondeu para mim = He answered me
+
+Further explanation about "the cause/accusation".
+
+There is the expression "por causa de", which means because of. In that sentence I commented above, the difference would be:
+
+    Tudo por você = All for you (In this, "você" inspires the subject and he wants to do everything for "you").
+    Tudo por causa de você = All because of you (this one can be more like an accusation, all that happened was because of "you")
+
+
+** Prepostions for places
+When talking about places, the general rules for prepositions are:
+
+    Em (no, na) = In, on, at. (Current location)
+    De (do, da) = from (Origin)
+    A (ao, à) = to (Destination) (1)
+    Para = to (Destination)
+    Por (pelo, pela) = by, through (Motion in, on or through that place)
+
+The forms in parentheses are the contractions of those prepositions with definite articles. Ex: "em + o = no".
+
+Estou no trabalho (I'm at work - workplace)
+Estou no restaurante (I'm at/in the restaurant)
+O almoço está na mesa (the lunch is on the table)
+Eu sou do Brasil (I'm from Brazil)
+Eu vim de lá (I came from there)
+Estou indo para casa (I'm going home)
+Vou à escola (I go to school)
+Passei pelo parque (I went through the park)
+Ela passou por mim (She passed by/near me)
+A formiga passeia pela (or na) mesa (The ant walks on the table).
+
+(1) "A" is also used sometimes without "motion to", in expressions like:
+
+    Está à beira do abismo = He/she is on the edge of abyss
+    Ao lado da mesa = beside the table
+    Ao longo da estrada = Along the road
+
+Notice the positional words complementing the preposition: beira (edge/margin), lado (side), longo (long)
+
+
+** Prepostions of time
+Hello there!
+
+Although having translations different from the straightfoward dictionary translations, prepositions are mostly well behaved also when used with time in sentences.
+
+Time and location/movements are the only cases where prepositions can have consistent translations. Other cases will probably demand experience more than understanding, but there are some tips to understand those too. (See prepositions for places here; see other prepositions here)
+
+So, let's get started!
+Dates, days, months and years
+
+In Portuguese using the prepositions for these cases is simpler than in English: all of them use the same preposition: "em". But it might be confusing because of the articles.
+
+(Remember that "no" and "na" are just contractions of "em + o" and "em + a")
+
+When telling a numeric date or a named month, no article is used:
+
+    Aconteceu em 5 de abril = It happened on April 5th
+    Ela nasceu em 1977 = She was born in 1977
+    Ele volta em agosto = He returns in August
+
+Week days, on the other hand, will always require the article:
+
+    The show is on Friday = O show é na sexta-feira
+    She travels on Sunday = Ela viaja no Domingo
+
+These prepositions can be omitted: "... é sexta-feira", "...viaja Domingo".
+
+When the name of the time unit is present, the article is also needed:
+
+If the unit is "mês", it's necessary to add a "de" after it.
+
+    O Natal é comemorado no dia 25 de dezembro = Christmas is celebrated on December 25th.
+    As aulas começam no mês de agosto = The classes start on August.
+    Estamos no ano 2015, quase em 2016 = We are in the year 2015, almost in 2016.
+    Foi na primeira semana de janeiro = It was on the first week of January
+
+Repeating week days:
+
+If something happens regularly on certain week days, use the preposition "a" or "em" plus the plural article:
+
+    Ele joga às/nas quartas-feiras = He plays on Wednesdays
+    Ele não trabalha aos/nos domingos = De does not work on Sundays
+
+Using "a" is more formal and better for written texts.
+Clock time
+
+Clock times will translate "at" as "a" and an article is needed.
+
+If the following time is feminine, add the article "a" making it "à" (a+a)
+If masculine, the article is "o", making it "ao" (a+o).
+And if plural, add the respective "s".
+
+    O filme começa às sete = The movie starts at seven
+    Ela se levanta às oito horas = She gets up at eight o'clock
+    Almoçamos ao meio-dia = We have lunch at noon
+    Lobisomens aparecem à meia-noite = Werewolfs appear at midnight
+
+When telling the day period, use "de" before it:
+
+    Vejo-te às cinco da tarde = See you at five in the afternoon
+    São seis da manhã! = It's six in the morning!
+
+Terms
+
+For terms, the preposition used is also "em", without articles:
+
+    A encomenda chegará em 10 dias = The order will arrive in 10 days
+    Te vejo em meia hora = I see you in half an hour
+
+Another very common option is "dentro de" (within), which has the same meaning.
+
+
+** Prepostions used with infinitive verbs
+Lots of sentences have infinitive verbs in it, and they often come associated with a preposition before them. That preposition has a meaning that is different from its standard meaning.
+
+So, before infinitive verbs, you can try this (not a strict rule, but a good start, please notice that there is a big range of possibilities, here are a few)
+
+A + infinitive: turns it into some kind of gerund action.
+
+    Estou a andar = I'm walking
+
+De + infinitive: it can be the cause of something, generally you can use "of/from" to replace it. And it's used to tell the usage of somethings:
+
+    Estou cansado de andar = I'm tired from walking
+    Esta barriga grande é de comer demais = this big belly comes from eating too much
+    Esta fruta é de comer? = Can this fruit be eaten? (is it real or plastic?)
+
+Para + infinitive: indicates an objective or goal:
+
+    É para comer = It's to be eaten (I made these breads for you to eat)
+    Vim aqui para falar = I came here to speak.
+    Isso é necessário para consertar o carro = That is necessary in order to fix the car.
+
+Hint: Ask "what for?" (para que?)
+
+No preposition: normally a direct object just being itself.
+
+    Quero andar = I want to walk (WHAT do I want? I want to walk)
+
+Gerunds and other cases
+
+Please be aware that MANY times, the other verb or the thing coming before the infinitive verb will define the preposition and override those patterns.
+
+    Gosto de andar = I like walking (this preposition is demanded by the verb "gostar", so it has nothing to do with the given explanation about "de")
+
+    Ele começou a falar = He started to speak (Like "started to" in English. You alyways use "start to" (começar a) or "start gerund", but gerund cannot be used that way in Portuguese)
+
+An excellent way of comparing the two languages is taking the English Gerunds (not present participles), which simply don't exist in Portuguese, being replaced by the infinitive instead. In this case, English can get as many different prepositions as Portuguese, and what preposition to use will get a lot clearer when you correlate things:
+
+    He is too young for voting = Ele é muito novo para votar
+    Do you see any problem in doing this? = Você vê algum problema em fazer isto?
+    Try doing it yourself = Tente fazer você mesmo(a).
+    He's afraid of going home alone = Ele tem medo de ir para casa sozinho
+    They have paid the price for doing evil things = Eles pagaram o preço por fazerem coisas más/maldosas.
+    Gerund is the key to understanding why Portuguese infinitive can take so many different prepositions! = O gerúndio ("gerund" em inglês) é a chave para entender por que o infinitivo em Português pode receber tantas preposições diferentes!
+
+Again, remember that even that trick can fool us, because prepositions don't always translate directly into other languages, unless they are talking about physical places.
+
+
+** Prepostions - All you wanted to know
+Well...one of the most difficult subjects when learning a language is surely the prepositions. In this topic I try to make it a little easier to understand when and how they are used.
+
+I know that this will not make you a master of prepositions, but surely will give you a head start.
+
+You may have noticed that translations for prepositions seems to be completely random, and sometimes you are right! But there are a few things that can help you learn a little more about them.
+
+The first thing to understand is not the translations of the prepositions, but when and where they are used. Each case uses prepositions in a different way, and there are some rules that apply in these cases. Their functions are intimately related to the functions of the parts of a sentence.
+
+So, let's get started!
+
+Here are several topics on prepositions, with their explanations right below:
+
+    Prepositions for indirect objects (demanded by the verb)
+    Prepositions for places
+    Combinations / Contractions (nisto, naquele, naquilo and others)
+    Time
+    Por and Para
+    Forming subordinate sentences with infinitive verbs
+    Built expressions
+    Mastering "Debaixo", "Embaixo" and "Abaixo"
+    Keep on going :D (not really a topic, just an advice)
+
+Prepositions for indirect objects (demanded by the verb)
+
+Although it's not the easiest usage of prepositions, it's better to start with this one, because it's very common and it's the first thing that starts confusing learners in Duolingo.
+
+These prepositions are demanded by the verb, so you really shouldn't bother trying to memorize their meanings (it will probably not make any sense), it's better to learn which prepositions are used for each verb instead!
+
+So, the first golden rule for prepositions is: never try to translate a preposition without the other words that come along!!
+If they are not about places or time (see below), they will not make sense!
+
+Prepositions for indirect objects:
+https://www.duolingo.com/comment/3185412
+Prepositions for places
+
+Well, now comes the easy part. If the preposition is not being demanded by a verb in its object, it is very probably being used in an adverb.
+
+Among different types of adverbs, there are the adverbs for places.
+
+The main idea of prepositions is exaclty that: to position things in places. Because of it, this is probably the only case where prepositions make sense and can be trusted (at least mostly). Now, this is when you might get happy learning their translations (translations that will make sense in this context only).
+
+See prepositions for places: https://www.duolingo.com/comment/947881
+Combinations (nisto, naquele, naquilo and others)
+
+Prepositions are often combined with other elements, and that is an obligation in many cases. Like when you have words like "ele", "isso", "isto", "aquilo" and others.
+
+At first, all those words and variations can be really confusing, but once you understand that they are just combined with prepositions, it gets clearer, specially because the combinations don't change the meaning of those words nor the rules for needing prepositions.
+
+Basic contractions:
+
+    Em + o/a/os/as = no/na/nos/nas
+    De + o/a/os/as = do/da/dos/das
+    A + o/a/os/as = ao/à/aos/às
+    Em + ele/ela/eles/elas = Nele/Nela/Neles/Nelas
+    De + ele/ela/eles/elas = Dele/Dela/Deles/Delas
+
+See combinations with "isso", "isto", "aquilo", "esse", "este" and "aquele": https://www.duolingo.com/comment/745813
+Time
+
+There are some other kinds of adverbs that take prepositions.
+
+Although not having the same translations as positional prepositions, prepositions for time also follow consistent rules, as shown here: https://www.duolingo.com/comment/12523133.
+Por and Para
+
+Well, it's not exactly a function, but this is something that can be really confusing between Portuguese and English, since "for" and "to" (their most common translations) are often switched from sentence to sentence.
+
+Differences between por and para:
+https://www.duolingo.com/comment/3185480
+Forming subordinate sentences with infinitive verbs
+
+Another common situation where you will find prepositions is when they form subordinate sentences using infinitive verbs.
+
+In this case, you associate the preposition with the infinitive verb, normally imediately before the verb. (Preposition + Infinitive verb).
+
+Here, prepositions also have meanings, but they are modified meanings. You won't be able to translate them with their standard meaning (used for places). But they follow some patterns, as you can see here:
+
+https://www.duolingo.com/comment/3185519
+
+PS: Sometimes it will be hard to identify if the preposition belongs to the previous verb or is acting on the infinitive verb. That knowledge comes from being used to each verb usage.
+Built expressions
+
+There are lots of built expressions in languages, and each of those expressions takes its particular preposition.
+
+Some prepositions will depend both on the words that come before and after it. That can mislead people, but unfortunately there is nothing that can be done unless getting to know those expressions. (Don't worry, that becomes natural with time)
+Mastering "Debaixo", "Embaixo" and "Abaixo"
+
+Well, all of these mean "under/below", but they go best in some specific cases. Take a look if you like: https://www.duolingo.com/comment/6852089
+Keep on going :D
+
+Prepositions are too hard???
+
+Don't worry too much if you don't get them that quick. Please remember prepositions are the hardest thing to master in a foreign language. In many cases, there will be exceptions, but don't think it's a motive to give up on learning. They are really something you will learn with time and practice, and there are plenty of other lessons that can be easily understood without mastering prepositions.
+
+
 * Pronouns
-** Help with isso, disto, aquilo, aquele, naquele, naquilo
+
+** DONE Help with isso, disto, aquilo, aquele, naquele, naquilo
+   CLOSED: [2017-02-26 So 12:21]
 ** How to choose between "isto" and "este"
+Hi there.
+
+One of the confusing things in Portuguese is how to choose between "isto" and "este" (or esta/estes/estas).
+
+Just an observation before starting:
+
+This topic is not about the difference between "isto", "isso" and "aquilo" or between "este", "esse" and "aquele".
+This is about the difference between "isto" and "este"; "isso" and "esse"; "aquilo" and "aquele".
+
+Well, the choice gets a lot easier when you remember that:
+
+    isto = this thing (or just this)
+    este = this one (singular masculine)
+    estas = these ones (plural feminine)
+
+You will notice that "isto" never points to anything else in the sentence. You cannot write "isto carro", "isto bicicleta". And it even has no plural nor inflections at all.
+
+Now "este" points to nouns and has inflecitons: "este carro", "estas bicicletas" (this car, these bikes). Even if the noun is not written, "este" keeps ponting to its hidden noun.
+
+So, one trick you can try when you see "this" in an English sentence is replacing it for "this thing/stuff" or for just "it". If it works, then you are dealing with "isto". (Notice that you wouldn't refer to people or to animals as "this thing" unless in specific contexts. Using "isto" is really treating things like objects)
+
+If it doesn't work, then try replacing it for "this one" or even "this noun". Now, that is surely "este/esta".
+
+And when you see "these", then you are sure it's "estes/estas", because "isto" just doesn't have a plural form.
+
+This same idea applies also when choosing between "isso/esse(as)" and "aquilo/aquele(as)".
+
+Examples:
+
+    What is this? - What is this thing? - O que é isto?
+    Who is this? - Who is this one/Who is this person - Quem é este/esta? (notice that if you are not pointing to the person you want to know who he/she is, then you would ask just "quem é?" = "who is it?")
+    This is a cat - This thing is a cat - Isto é um gato
+
+    This is a cat - This one is a cat - Este é um gato
+
+    This is my cat: (in this example, there are two questions, the answers normally follow the same option that was in the question)
+
+    If the question was (what is this? - o que é isto?): This thing is my cat / Isto é meu gato (better for objects than for cats or people, isto is used here only because of the question, the person probably didn't recognize the "thing" as a cat when asking, or was probably asking "what does this mean, a cat here?")
+
+    If the question was (who is this one? - quem é este?): This one is my cat / this cat is my cat / Este é o meu gato (better for people, but you might refer to a cat as "who").
+
+    This is the car I saw yesterday - Fits best with "this one is the car...." or "this car is the car...", then: Este é o carro que vi ontem.
+
+
 ** Imperatives and object pronouns
+I know that since Brazilian Portuguese typically uses «você» as the primary second-person pronoun, which grammatically would be similar to «usted» in Spanish (though você is less formal in B. Portuguese as usted is in Spanish). I understand that because of this, Portuguese imperatives with você typically involve the subjunctive mood of the verb, just as the imperative for usted is the subjunctive mood.
+Ex: Olhar --> olhe
+Ex: Conhecer --> conheça
+
+However, in Spanish, sometimes direct/indirect object are added to imperatives if the command relates to it. An accent is put on the second-to-last syllable of the original imperative to maintain emphasis on the verb even with the object attached at the end.
+Ex: tranquilízate --> calm yourself (tranquiliza + te)
+Ex: enséñeselo --> teach it to her (enseñe + se + lo)-
+Ex: líbranos --> release us (libra + nos)
+Ex: dígamelo --> tell it to me (diga + me + lo)
+-le changes to se when a direct object is added.
+
+How would I do this in Portuguese? How would I put an object on the end of an imperative? Does it involve a hyphen instead of an accent? Thank you for any help.
+*** answer
+First: "imperative" and "subjunctive" are different things. We are talking about imperative conjugations here, which exist for both second and third persons.
+
+Pronouns can be either before or after the verb (sometimes even in the middle, but that's future tense and rare). There are certain words that attract the pronoun if they are before the verb, being "não" one of them. But normally, the pronoun should go after the verb.
+
+Whenever the pronoun is after the verb, it needs an hyphen. And the "o/a" pronouns become "lo/la" if the verb ends in "s", "r" or "z". They also become "no/na" if the verb ends in "m" or other nasal forms (õe, for instance).
+
+For pronoun positioning, European Portuguese is more strict than Brazilian Portuguese. Brazilian Portuguese common language doesn't see any problem putting the pronoun before the verb, while European Portuguese considers it wrong if the attracting word is not there. (Also, Brazilian spoken language carries a looot of mixing "tu" and "você" forms, as @tjasonham has shown, here I'll try to keep it grammar-wise)
+
+Examples for "tu" conjugations (negative "tu" conjugations are different):
+
+    Ensina-me = Teach me
+    Não me ensines = Don't teach me ("não" attracts the pronoun, "tu" negative imperative is different)
+    (BP) Me ensina (although the formal rules still ask for "Ensina-me").
+
+Now, choosing between "tu" and "você" conjugations may involve formality and politeness sometimes, but it seems random to me and it also depends a lot on which part of the country or which country we are talking about.
+
+Your examples (except the enséñeselo, which I'll try to understand later) can use either "tu" or "você" conjugations:
+
+    (Tu) Livra-nos -- Não nos livres
+    (Vc) Livre-nos -- Não nos livre
+
+If the object is the person receiving the command: The second person pronoun "te" will become "se" when "você" is used :
+
+    (Tu) Tranquiliza-te -- Não te tranquilizes ("te" is reflexive for "tu")
+    (Vc) Tranquilize-se -- Não se tranquilize ("se" is reflexive for "você")
+
+Pronouns will mix themselves if they are two, but this is very rare to see in Brazil. (Me + o = mo / Me + a = ma).
+It's really better to avoid adding "o/a" here, and if necessary add it not as a pronoun:
+
+    (Tu) Diz-mo/ma -- Não mo/ma digas // Diz-me -- Não me digas (algo)
+    (Vc) Diga-mo/ma -- Não mo/ma diga // Diga-me -- Não me diga (algo)
+
+Alternatively, use "para mim = to me" instead of "me":
+
+    (Tu) Di-lo/la para mim = Não o/a digas para mim
+    (Vc) Diga-o/a para mim = Não o/a diga para mim
+
+About "enséñeselo", I don't know if it's a passive voice contruction or if "se" really refers to "him/her".
+The indirect pronoun for "him/her" in Portuguese is "lhe". The direct one is "o/a":
+
+Again, the "lho/lha" forms are very rare and people might not understand it, use "lhe" instead:
+
+    (Tu) Ensina-lho/lha -- Não lho/lha ensines (Being "lhe = to him/her" and "o/a = it")
+    (Vc) Ensine-lho/lha -- Não lho/lha ensine
+
+Alternatively:
+
+    (Tu) Ensina-o/a para ele/ela - Não o/a ensines para ele/ela
+    (Vc) Ensine-o/a para ele/ela - Não o/a ensine para ele/ela
+
+Now, is that "se" in "enséñeselo" really "lhe"?? Or is it a "passive voice particle"? In the following example, using the "se" passive particle, only the third person conjugation is valid, because the subject is what is being taught, not "you":
+
+    Ensine-se-lhe = Let/That it be taught to him/her
+    Não se lhe ensine
+
 ** It - What is "it" in Portuguese after all?
+There is a tendency of many people thinking that "it" translates as "isto" in Portuguese, but in fact, it doesn't (or at least it's not the standard meaning).
+
+There are cases where this is true, but mostly, "it" should be seen differently.
+
+What we usually teach in the English for Portuguese speakers course is:
+
+    "It" não é "isto" = "It" is not "isto"
+
+"It" in English may have different functions that are distinct in Portuguese. Dummy "it"s and concrete "it"s are treated differently, for instance.
+
+All sentences like "It is something" should not be translated with "isso/isto". They should simply use nothing. These are "hidden subjects" in Portuguese:
+
+    It is a man = __ É um homem
+    It is my car = __ É o meu carro
+    It is very interesting = __ É muito interessante
+
+As you can tell, the difference between "It's a man" and "this is a man" is enough to make them not be used interchangeably, unless when someone asks you "what is this?". The same distinction exists in Portuguese between "É um homem" and "Isto é um homem".
+
+Also, there are subjects that don't even exist, such as with nature events:
+
+    It is raining = __ Está chovendo (there is nothing at all that "does" rain)
+
+"It" is a personal pronoun, therefore in cases where it's an actual concrete subject or object, it should be translated with a personal pronoun as well: ele/ela (subject) and o/a/-lo/-la/-no/-na (object), or even be omitted if the sentence doesn't get unnatural by that omission:
+
+    I like my car, it's so comfortable = Eu gosto do meu carro, ele é tão confortável!!
+    Your house is great, I like it! = Tua casa é ótima, eu gosto dela
+    I love that play, I want to watch it again = Eu amo essa peça, quero vê-la de novo
+    Here is your money, take it an leave = Aqui está o seu dinheiro, pegue-o e saia.
+    It's an interesting opportunity, they are chasing it = __ É uma oportunidade interessante, eles estão correndo atrás dela
+    It bit me! = Ele/Ela me mordeu! (something that "bites" is certainly a concrete thing)
+
+Using "isto/isso" in any of these cases would be very weird if you are talking about those mentioned subjects/objects, just like it would happen in English with "this". Using "isto/isso" would evoke a "situation" as subject/object to replace those.
+
+    I like my car, this is so comfortable - Wait, what is comfortable? You liking your car? Perhaps you demonstrating how the seats lean back? Not your car, you would have used "it/ele" if it were your car.
+
+Then why everyone keeps saying that "it = isto"?
+
+Well, first, beginners are not used to the idea of "not translating a word" (such as in the "it's something" sentences). Many feel the need to translate "it" and the nearest one can think for those indefinite cases is "isto". Also, Duolingo's hint system doesn't really fit the possibility of an empty hint.
+
+And second, there are cases indeed when they can!
+
+These are cases that simply get "idiomatic" in Portuguese with "isto/isso", and they seem to happen mostly when there is a "situation" or something that is not concrete enough or not specific/identified enough to be referred to as "ele". Then, "Isto = this vague thing". And there is also a "preposition", which forces you to add a complement. Prepositions cannot stand loose in Portuguese, they need the complement after them. Otherwise, it would be probably better to omit the translation.
+
+One case without preposition for comparison. Here "it" is not translated:
+
+    — I have a surprise for you = Eu tenho uma surpresa para você
+    — What is it? = O que é __? (Not concrete enough to use "ela", not present enough to use "isto". Still working the same as English)
+
+Classic cases are:
+
+    Think about it = Pense nisso (The situation is too vague for one to use "ele", even though, you can when you define it properly: "É um caso interessante, vou pensar nele com carinho = It's an interesting case, I'll think about it with care")
+
+    We will talk about it later = Falaremos disso depois (The concrete thing and the situation meanings may mix up here, lacking "concreteness". It's an idiomatic usage. Again, defining it properly would allow "ele" usage: Este assunto não é tão importante, falaremos dele depois = This subject is not that important, we'll talk about it later)
+
+    Because of it = Por causa disso / Por isso (Once more, the situation and the concrete thing may mix up, another idiomatic usage. Again, the "ele" case applies: "Toda essa mudança me deixa maluco, por causa dela não consigo me orientar = All this change drives me crazy, because of it I can't orient myself)
+
+In these cases, the prepositions are "em" (making "nisso") and "de" (making "disso").
+Notice that in a case where the object is naturally implied, it would be a good idea to omit it too:
+
+    I will think about it carefully = Eu vou pensar __ com cuidado (no object, no preposition)
+
+
 ** Qual x que x o que
+When to use "qual" and when to use "o que"?
+
+In short:
+
+    Qual = Which one
+    Qual + noun = which/what + noun
+    Que + noun = which/what + noun
+    O que = asks for definitions/explanations
+
+Qual
+
+Qual is fairly translated by "which" or "which one".
+In English, "which" is often substituted by "what". So, in all questions you could use "which" instead of "what", you would use "qual".
+
+There might be some exceptions, but in general, you would use "qual" for questions where you are asking which one from a group of available options
+
+See: what is daddy's profession??
+You could, without any loss, ask: "which is daddy's profession?".
+In that case, you would ask in Portuguese: Qual é a profissão do papai?
+
+(Unless you are trying to ask an explanation about what that profession is. In that case you couldn't use "which", and you would use "o que", as you will see below)
+
+Qual can point to a noun, like "qual carro", "qual cor". Or it can be pointing to an implied noun, meaning "which one" in this case.
+
+Examples on "qual" usage:
+
+    Qual cor? Which color. What color (this accepts "que cor?", see "que" below)
+    Qual é o teu carro - which one is your car, from all available models, or from two available parked cars.
+    Qual é a mais bonita? - Which one is the most beautiful?
+    Qual é sua profissão - Which/what is your profession (notice that this is using an implied noun: qual profissão é a sua = which profession is yours)
+
+.
+An "advanced" example of a different usage, still meaning "which":
+
+    Eu tenho um carro, o qual é vermelho = I have a car, which is red.
+    (this kind of usage can almost in every case take "que" instead of "o qual": "Eu tenho um carro que é vermelho")
+
+Que
+
+Que has many different functions, one of them is to work like "qual" does, as in these examples:
+
+    Que roupas você usará (what clothes will you use) - Very similar to "quais roupas", but quais would suggest better identification of "each part", "one by one".
+    Que carro é o teu? (what/which car is yours) = Qual carro é o teu??
+
+Please notice that in this function, "que" doesn't stand for itself. It's always pointing to a noun: "que carro", "que roupas", "que cor". It's a little different from "qual", because "qual" can also stand alone pointing to an implied noun.
+O que:
+
+O que, in questions, is used mainly to ask explanations or definitions about something that is unknown.
+
+    O que é isto??? What is it? (Please explain what it is).
+    O que você faz?? What do you do?? (Please explain what you do)
+
+If one asks "qual você faz?", it would only make sense in a case like this:
+There are two cakes on a table and you know each one is made by different persons. So the question would mean "which one do you make"?
+
+The difference from "que" above and "o que", is that "o que" is necessarily a stand-alone subject or object.
+
+You can differentiate it from just "que/qual" checking if the word "what" in the English sentence could stand for itself:
+
+    What car (que/qual carro)
+    What do you want (stand alone: o que você quer)
+    What questions do you have (que/quais perguntas)
+    He needs what? (Ele precisa de/do que?)
+
+General examples and comparisons:
+
+    O que você quer? = What do you want? (you might hear "que você quer?" informally)
+    Qual você quer? = Which one do you want?
+    O que é um pássaro? = What is a bird? (Please explain what a bird is)
+    Qual é um pássaro? = Which one is a bird?
+    Que carro você usa? = What/which car do you use?
+    Qual carro você usa? = What/which car do you use?
+    O que carro você usa? -- This is just a mistake
+
+
 * Pronunciation and Accents
 ** Ele vs. ela pronunciation
 ** Nasal sounds - How to pronounce "não"
